@@ -3,7 +3,7 @@
 Every reboot capture taken by [petit](https://github.com/crunchtools/petit)'s
 weekly Fingerprints workflow (`tools/fingerprints/refresh.py`).
 
-    <date>/<release>/
+    <date>/<run>/<release>/   <run> is the petit Actions run ID
       meta.json          image, digest, kernel and OS behind the capture
       a.log, b.log       the reboot event, as petit's corpora use it
       raw/<a|b>/         everything the guest logged on both boots, whole
