@@ -1,0 +1,15 @@
+{
+  "id": "ubuntu26.04",
+  "family": "ubuntu",
+  "version": "26.04",
+  "role": "corpus",
+  "corpus": "ubuntu26.04",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud-images.ubuntu.com/resolute/current/resolute-server-cloudimg-amd64.img",
+  "checksum": "https://cloud-images.ubuntu.com/resolute/current/SHA256SUMS",
+  "digest": "sha256:2d3b9b1f76fc204f684a2313113b1d7c2b35eabba19cfcbcec5eae2aed3cc853",
+  "kernel": "7.0.0-31-generic",
+  "os": "Ubuntu 26.04.1 LTS",
+  "captured": "2026-09-25"
+}

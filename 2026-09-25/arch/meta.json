@@ -1,0 +1,15 @@
+{
+  "id": "arch",
+  "family": "arch",
+  "version": "",
+  "role": "corpus",
+  "corpus": "arch",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://geo.mirror.pkgbuild.com/images/latest/Arch-Linux-x86_64-cloudimg.qcow2",
+  "checksum": "https://geo.mirror.pkgbuild.com/images/latest/Arch-Linux-x86_64-cloudimg.qcow2.SHA256",
+  "digest": "sha256:d7cc7c86a21b32d6678c001464714f71f4ef7e0d7bbbfca65e99123ac5afc25b",
+  "kernel": "7.2.6-arch2-1",
+  "os": "Arch Linux",
+  "captured": "2026-09-25"
+}

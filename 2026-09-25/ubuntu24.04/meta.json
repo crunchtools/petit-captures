@@ -1,0 +1,15 @@
+{
+  "id": "ubuntu24.04",
+  "family": "ubuntu",
+  "version": "24.04",
+  "role": "corpus",
+  "corpus": "ubuntu24.04",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud-images.ubuntu.com/noble/current/noble-server-cloudimg-amd64.img",
+  "checksum": "https://cloud-images.ubuntu.com/noble/current/SHA256SUMS",
+  "digest": "sha256:612b2c0cc1bc413a6cb8c38fd611794caf0f2b436c50013d8b3794db12ad7354",
+  "kernel": "6.8.0-139-generic",
+  "os": "Ubuntu 24.04.5 LTS",
+  "captured": "2026-09-25"
+}

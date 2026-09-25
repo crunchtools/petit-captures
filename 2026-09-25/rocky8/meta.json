@@ -1,0 +1,15 @@
+{
+  "id": "rocky8",
+  "family": "rocky",
+  "version": "8",
+  "role": "verify",
+  "corpus": "el8",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://download.rockylinux.org/pub/rocky/8/images/x86_64/Rocky-8-GenericCloud-Base.latest.x86_64.qcow2",
+  "checksum": "https://download.rockylinux.org/pub/rocky/8/images/x86_64/Rocky-8-GenericCloud-Base.latest.x86_64.qcow2.CHECKSUM",
+  "digest": "sha256:e56066c58606191e96184de9a9183a3af33c59bcbd8740d8b10ca054a7a89c14",
+  "kernel": "4.18.0-553.el8_10.x86_64",
+  "os": "Rocky Linux 8.10 (Green Obsidian)",
+  "captured": "2026-09-25"
+}
