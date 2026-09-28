@@ -1,0 +1,15 @@
+{
+  "id": "alpine3.24",
+  "family": "alpine",
+  "version": "3.24",
+  "role": "corpus",
+  "corpus": "alpine",
+  "log": "messages",
+  "source": "cloud",
+  "image": "https://dl-cdn.alpinelinux.org/alpine/v3.24/releases/cloud/alpine-3.24.2-x86_64-cloudinit-r0.qcow2",
+  "checksum": "",
+  "digest": "sha512:c9504d23613f304e0cfb6f5fec872e29e5a5a62e2bc64796daf19c14fdddaa87dc252912fd8bdd17f7b8ebf0cd03305e4075993d54de175e6028d6b50414c67f",
+  "kernel": "6.18.52-0-virt",
+  "os": "Alpine Linux v3.24",
+  "captured": "2026-09-28"
+}

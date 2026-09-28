@@ -1,0 +1,15 @@
+{
+  "id": "rocky9",
+  "family": "rocky",
+  "version": "9",
+  "role": "verify",
+  "corpus": "el9",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://download.rockylinux.org/pub/rocky/9/images/x86_64/Rocky-9-GenericCloud-Base.latest.x86_64.qcow2",
+  "checksum": "https://download.rockylinux.org/pub/rocky/9/images/x86_64/Rocky-9-GenericCloud-Base.latest.x86_64.qcow2.CHECKSUM",
+  "digest": "sha256:92c206cc6f790c61583247eefe87890f8828420662c17cacf247cec78ab4eec8",
+  "kernel": "5.14.0-687.10.1.el9_8.0.1.x86_64",
+  "os": "Rocky Linux 9.8 (Blue Onyx)",
+  "captured": "2026-09-28"
+}

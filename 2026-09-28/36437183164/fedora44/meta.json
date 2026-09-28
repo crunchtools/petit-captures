@@ -1,0 +1,15 @@
+{
+  "id": "fedora44",
+  "family": "fedora",
+  "version": "44",
+  "role": "corpus",
+  "corpus": "fedora44",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://download.fedoraproject.org/pub/fedora/linux/releases/44/Cloud/x86_64/images/Fedora-Cloud-Base-Generic-44-1.7.x86_64.qcow2",
+  "checksum": "",
+  "digest": "sha256:28680fe5b371a5a82ebf43a31926e086a168e59949d03969c5093e7071f90b7f",
+  "kernel": "6.19.10-300.fc44.x86_64",
+  "os": "Fedora Linux 44 (Cloud Edition)",
+  "captured": "2026-09-28"
+}

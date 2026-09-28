@@ -1,0 +1,15 @@
+{
+  "id": "ubuntu22.04",
+  "family": "ubuntu",
+  "version": "22.04",
+  "role": "corpus",
+  "corpus": "ubuntu22.04",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img",
+  "checksum": "https://cloud-images.ubuntu.com/jammy/current/SHA256SUMS",
+  "digest": "sha256:48c7e1ab2005bff1c5450bd6c74d0f38482f0d750e14f320367e3e1c795035f9",
+  "kernel": "5.15.0-191-generic",
+  "os": "Ubuntu 22.04.5 LTS",
+  "captured": "2026-09-28"
+}
