@@ -1,0 +1,15 @@
+{
+  "id": "debian13",
+  "family": "debian",
+  "version": "13",
+  "role": "corpus",
+  "corpus": "debian13",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud.debian.org/images/cloud/trixie/latest/debian-13-genericcloud-amd64.qcow2",
+  "checksum": "https://cloud.debian.org/images/cloud/trixie/latest/SHA512SUMS",
+  "digest": "sha512:f46f0671a6e5bdec5291ab8972bae2f10e5408c2f64a74078f11efc2f06a436a9d0313ed50e0472542eeabf780e9f7c792ac0a314c6c20507fcd9fd81b468c3d",
+  "kernel": "6.12.111+deb13-cloud-amd64",
+  "os": "Debian GNU/Linux 13 (trixie)",
+  "captured": "2026-10-05"
+}
