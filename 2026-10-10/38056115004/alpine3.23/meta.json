@@ -1,0 +1,15 @@
+{
+  "id": "alpine3.23",
+  "family": "alpine",
+  "version": "3.23",
+  "role": "verify",
+  "corpus": "alpine",
+  "log": "messages",
+  "source": "cloud",
+  "image": "https://dl-cdn.alpinelinux.org/alpine/v3.23/releases/cloud/alpine-3.23.6-x86_64-bios-cloudinit-r1.qcow2",
+  "checksum": "",
+  "digest": "sha512:2853e42ba2696ee0e23bcdae6a640b8f84f9ce51de4cf4cb4728dc6a03760a0c520f181a8ab018592b4f5f9bc9d7d3c7e6fc5bcd10beabee7be7a26b5cd5b76c",
+  "kernel": "6.18.53-0-virt",
+  "os": "Alpine Linux v3.23",
+  "captured": "2026-10-10"
+}

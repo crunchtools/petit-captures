@@ -1,0 +1,15 @@
+{
+  "id": "debian12",
+  "family": "debian",
+  "version": "12",
+  "role": "corpus",
+  "corpus": "debian12",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud.debian.org/images/cloud/bookworm/latest/debian-12-genericcloud-amd64.qcow2",
+  "checksum": "https://cloud.debian.org/images/cloud/bookworm/latest/SHA512SUMS",
+  "digest": "sha512:a09170d17e13af43da61774666f520e3bbec0f8bd96b4db37c15f3426fb327ccad950b80dbe78c09aa5ca90ce5015e99334b0ba5188fd4018736bc3fb5f0882c",
+  "kernel": "6.1.0-53-cloud-amd64",
+  "os": "Debian GNU/Linux 12 (bookworm)",
+  "captured": "2026-10-10"
+}

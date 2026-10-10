@@ -1,0 +1,15 @@
+{
+  "id": "centos-stream9",
+  "family": "centos-stream",
+  "version": "9",
+  "role": "verify",
+  "corpus": "el9",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://cloud.centos.org/centos/9-stream/x86_64/images/CentOS-Stream-GenericCloud-9-latest.x86_64.qcow2",
+  "checksum": "https://cloud.centos.org/centos/9-stream/x86_64/images/CentOS-Stream-GenericCloud-9-latest.x86_64.qcow2.SHA256SUM",
+  "digest": "sha256:bc181b85ceaac9bc48651faab29ca0707fc7ff597854adaef1f0fa5f144ac01f",
+  "kernel": "5.14.0-756.el9.x86_64",
+  "os": "CentOS Stream 9",
+  "captured": "2026-10-10"
+}

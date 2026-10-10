@@ -1,0 +1,15 @@
+{
+  "id": "almalinux8",
+  "family": "almalinux",
+  "version": "8",
+  "role": "corpus",
+  "corpus": "el8",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://repo.almalinux.org/almalinux/8/cloud/x86_64/images/AlmaLinux-8-GenericCloud-latest.x86_64.qcow2",
+  "checksum": "https://repo.almalinux.org/almalinux/8/cloud/x86_64/images/CHECKSUM",
+  "digest": "sha256:4a4dfcbd0a02f9fbf62dee6420a168858ff1640a26fb8840ea4013db57436a6c",
+  "kernel": "4.18.0-553.168.1.el8_10.x86_64",
+  "os": "AlmaLinux 8.10 (Cerulean Leopard)",
+  "captured": "2026-10-10"
+}

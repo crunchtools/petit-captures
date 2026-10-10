@@ -1,0 +1,1140 @@
+Oct 10 13:39:22 host01 systemd[1]: Removed slice Slice /system/modprobe.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Cloud-init target.
+Oct 10 13:39:22 host01 sshd[654]: Received signal 15; terminating.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Graphical Interface.
+Oct 10 13:39:22 host01 rsyslogd[615]: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="615" x-info="https://www.rsyslog.com"] exiting on signal 15.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Host and Network Name Lookups.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Timer Units.
+Oct 10 13:39:22 host01 systemd[1]: apt-daily-upgrade.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily apt upgrade and clean activities.
+Oct 10 13:39:22 host01 systemd[1]: apt-daily.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily apt download activities.
+Oct 10 13:39:22 host01 systemd[1]: dpkg-db-backup.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily dpkg database backup timer.
+Oct 10 13:39:22 host01 systemd[1]: e2scrub_all.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Periodic ext4 Online Metadata Check for All Filesystems.
+Oct 10 13:39:22 host01 systemd[1]: fstrim.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Discard unused blocks once a week.
+Oct 10 13:39:22 host01 systemd[1]: logrotate.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily rotation of log files.
+Oct 10 13:39:22 host01 systemd[1]: man-db.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily man-db regeneration.
+Oct 10 13:39:22 host01 systemd[1]: motd-news.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Message of the Day.
+Oct 10 13:39:22 host01 systemd[1]: systemd-tmpfiles-clean.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Daily Cleanup of Temporary Directories.
+Oct 10 13:39:22 host01 systemd[1]: update-notifier-download.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Download data for packages that failed at package install time.
+Oct 10 13:39:22 host01 systemd[1]: update-notifier-motd.timer: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Check to see whether there is a new version of Ubuntu available.
+Oct 10 13:39:22 host01 systemd[1]: cloud-init-hotplugd.socket: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Closed cloud-init hotplug hook socket.
+Oct 10 13:39:22 host01 systemd[1]: lvm2-lvmpolld.socket: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Closed LVM2 poll daemon socket.
+Oct 10 13:39:22 host01 systemd[1]: systemd-rfkill.socket: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Closed Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Oct 10 13:39:22 host01 systemd[1]: Stopping Availability of block devices...
+Oct 10 13:39:22 host01 systemd[1]: cloud-final.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Cloud-init: Final Stage.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Multi-User System.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Login Prompts.
+Oct 10 13:39:22 host01 systemd[1]: Stopping LSB: automatic crash report generation...
+Oct 10 13:39:22 host01 systemd[1]: cloud-config.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Cloud-init: Config Stage.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Cloud-config availability.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Network is Online.
+Oct 10 13:39:22 host01 systemd[1]: Stopping Regular background program processing daemon...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Create final runtime dir for shutdown pivot root...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Getty on tty1...
+Oct 10 13:39:22 host01 systemd[1]: Stopping irqbalance daemon...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Dispatcher daemon for systemd-networkd...
+Oct 10 13:39:22 host01 systemd[1]: Stopping petit reboot fingerprint capture...
+Oct 10 13:39:22 host01 systemd[1]: plymouth-quit.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Terminate Plymouth Boot Screen.
+Oct 10 13:39:22 host01 systemd[1]: Stopping System Logging Service...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Serial Getty on ttyS0...
+Oct 10 13:39:22 host01 systemd[1]: snapd.seeded.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Wait until snapd is fully seeded.
+Oct 10 13:39:22 host01 systemd[1]: Stopping Snap Daemon...
+Oct 10 13:39:22 host01 systemd[1]: Condition check resulted in Ubuntu core (all-snaps) system shutdown helper setup service being skipped.
+Oct 10 13:39:22 host01 systemd[1]: Stopping OpenBSD Secure Shell server...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Load/Save Random Seed...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Time & Date Service...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Unattended Upgrades Shutdown...
+Oct 10 13:39:22 host01 systemd[1]: cron.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Regular background program processing daemon.
+Oct 10 13:39:22 host01 systemd[1]: networkd-dispatcher.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Dispatcher daemon for systemd-networkd.
+Oct 10 13:39:22 host01 systemd[1]: Stopped petit reboot fingerprint capture.
+Oct 10 13:39:22 host01 systemd[1]: irqbalance.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped irqbalance daemon.
+Oct 10 13:39:22 host01 systemd[1]: rsyslog.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped System Logging Service.
+Oct 10 13:39:22 host01 systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Serial Getty on ttyS0.
+Oct 10 13:39:22 host01 systemd[1]: ssh.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped OpenBSD Secure Shell server.
+Oct 10 13:39:22 host01 systemd[1]: getty@tty1.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Getty on tty1.
+Oct 10 13:39:22 host01 snapd[620]: main.go:201: Exiting on terminated signal.
+Oct 10 13:39:22 host01 snapd[620]: hookmgr.go:219: gracefully waiting for running hooks
+Oct 10 13:39:22 host01 snapd[620]: hookmgr.go:221: done waiting for running hooks
+Oct 10 13:39:22 host01 blkdeactivate[831]: Deactivating block devices:
+Oct 10 13:39:22 host01 systemd[1]: unattended-upgrades.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Unattended Upgrades Shutdown.
+Oct 10 13:39:22 host01 systemd[1]: systemd-timedated.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Time & Date Service.
+Oct 10 13:39:22 host01 systemd[1]: blk-availability.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Availability of block devices.
+Oct 10 13:39:22 host01 systemd[1]: systemd-random-seed.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Load/Save Random Seed.
+Oct 10 13:39:22 host01 systemd[1]: Removed slice Slice /system/getty.
+Oct 10 13:39:22 host01 systemd[1]: Removed slice Slice /system/serial-getty.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Preparation for Logins.
+Oct 10 13:39:22 host01 systemd[1]: plymouth-quit-wait.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Hold until boot process finishes up.
+Oct 10 13:39:22 host01 systemd[1]: Condition check resulted in Show Plymouth Reboot Screen being skipped.
+Oct 10 13:39:22 host01 systemd[1]: Condition check resulted in Tell Plymouth To Jump To initramfs being skipped.
+Oct 10 13:39:22 host01 systemd[1]: Stopping User Login Management...
+Oct 10 13:39:22 host01 systemd[1]: Stopping Permit User Sessions...
+Oct 10 13:39:22 host01 systemd[1]: systemd-user-sessions.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Permit User Sessions.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Network.
+Oct 10 13:39:22 host01 systemd[1]: Stopping Network Name Resolution...
+Oct 10 13:39:22 host01 apport[834]:  * Stopping automatic crash report generation: apport
+Oct 10 13:39:22 host01 apport[834]:    ...done.
+Oct 10 13:39:22 host01 systemd[1]: apport.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped LSB: automatic crash report generation.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Remote File Systems.
+Oct 10 13:39:22 host01 systemd[1]: Stopped target Preparation for Remote File Systems.
+Oct 10 13:39:22 host01 systemd[1]: systemd-resolved.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped Network Name Resolution.
+Oct 10 13:39:22 host01 systemd[1]: systemd-logind.service: Deactivated successfully.
+Oct 10 13:39:22 host01 systemd[1]: Stopped User Login Management.
+Oct 10 13:39:23 host01 systemd-tmpfiles[955]: /run/finalrd-libs.conf:48: Duplicate line for path "/run/initramfs/lib64", ignoring.
+Oct 10 13:39:23 host01 finalrd[956]: run-parts: executing /usr/share/finalrd/mdadm.finalrd setup
+Oct 10 13:39:23 host01 finalrd[956]: run-parts: executing /usr/share/finalrd/open-iscsi.finalrd setup
+Oct 10 13:39:23 host01 systemd[1]: finalrd.service: Deactivated successfully.
+Oct 10 13:39:23 host01 systemd[1]: Stopped Create final runtime dir for shutdown pivot root.
+Oct 10 13:39:25 host01 snapd[620]: standby.go:121: standby monitoring stop requested
+Oct 10 13:39:25 host01 snapd[620]: overlord.go:577: Released state lock file
+Oct 10 13:39:25 host01 snapd[620]: seclog.go:122: security logger disabled
+Oct 10 13:39:25 host01 systemd[1]: snapd.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Snap Daemon.
+Oct 10 13:39:25 host01 systemd[1]: snapd.service: Consumed 1.048s CPU time.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Basic System.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Path Units.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Slice Units.
+Oct 10 13:39:25 host01 systemd[1]: Removed slice User and Session Slice.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Socket Units.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target System Time Set.
+Oct 10 13:39:25 host01 systemd[1]: iscsid.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Open-iSCSI iscsid Socket.
+Oct 10 13:39:25 host01 systemd[1]: snap.lxd.daemon.unix.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Socket unix for snap application lxd.daemon.
+Oct 10 13:39:25 host01 systemd[1]: snap.lxd.user-daemon.unix.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Socket unix for snap application lxd.user-daemon.
+Oct 10 13:39:25 host01 systemd[1]: snapd.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Socket activation for snappy daemon.
+Oct 10 13:39:25 host01 systemd[1]: syslog.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Syslog Socket.
+Oct 10 13:39:25 host01 systemd[1]: uuidd.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed UUID daemon activation socket.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target System Initialization.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Local Encrypted Volumes.
+Oct 10 13:39:25 host01 systemd[1]: systemd-ask-password-console.path: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Dispatch Password Requests to Console Directory Watch.
+Oct 10 13:39:25 host01 systemd[1]: systemd-ask-password-wall.path: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Forward Password Requests to Wall Directory Watch.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Local Verity Protected Volumes.
+Oct 10 13:39:25 host01 systemd[1]: cloud-init.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Cloud-init: Network Stage.
+Oct 10 13:39:25 host01 systemd[1]: Stopping Set Up Additional Binary Formats...
+Oct 10 13:39:25 host01 systemd[1]: systemd-networkd-wait-online.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Wait for Network to be Configured.
+Oct 10 13:39:25 host01 systemd-networkd[567]: enp0s4: DHCP lease lost
+Oct 10 13:39:25 host01 systemd[1]: Stopping Network Configuration...
+Oct 10 13:39:25 host01 systemd[1]: Stopping Network Time Synchronization...
+Oct 10 13:39:25 host01 systemd[1]: Stopping Record System Boot/Shutdown in UTMP...
+Oct 10 13:39:25 host01 systemd[1]: systemd-timesyncd.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Network Time Synchronization.
+Oct 10 13:39:25 host01 systemd[1]: systemd-binfmt.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Set Up Additional Binary Formats.
+Oct 10 13:39:25 host01 systemd[1]: proc-sys-fs-binfmt_misc.automount: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd-networkd[567]: enp0s4: DHCPv6 lease lost
+Oct 10 13:39:25 host01 systemd[1]: Unset automount Arbitrary Executable File Formats File System Automount Point.
+Oct 10 13:39:25 host01 systemd[1]: proc-sys-fs-binfmt_misc.mount: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: systemd-networkd.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Network Configuration.
+Oct 10 13:39:25 host01 systemd[1]: systemd-update-utmp.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Record System Boot/Shutdown in UTMP.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Preparation for Network.
+Oct 10 13:39:25 host01 systemd[1]: systemd-networkd.socket: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Closed Network Service Netlink Socket.
+Oct 10 13:39:25 host01 systemd[1]: cloud-init-local.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Cloud-init: Local Stage (pre-network).
+Oct 10 13:39:25 host01 systemd[1]: systemd-sysctl.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Apply Kernel Variables.
+Oct 10 13:39:25 host01 systemd[1]: systemd-modules-load.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Load Kernel Modules.
+Oct 10 13:39:25 host01 systemd[1]: systemd-tmpfiles-setup.service: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Stopped Create Volatile Files and Directories.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Local File Systems.
+Oct 10 13:39:25 host01 systemd[1]: Stopped target Mounted snaps.
+Oct 10 13:39:25 host01 systemd[1]: Unmounting /boot/efi...
+Oct 10 13:39:25 host01 systemd[1]: Unmounting /run/credentials/systemd-sysusers.service...
+Oct 10 13:39:25 host01 systemd[1]: Unmounting /run/snapd/ns/lxd.mnt...
+Oct 10 13:39:25 host01 systemd[1]: Unmounting Mount unit for core22, revision 2955...
+Oct 10 13:39:25 host01 systemd[1]: Unmounting Mount unit for lxd, revision 40911...
+Oct 10 13:39:25 host01 systemd[1]: Unmounting Mount unit for snapd, revision 28254...
+Oct 10 13:39:25 host01 systemd[1]: boot-efi.mount: Deactivated successfully.
+Oct 10 13:39:25 host01 systemd[1]: Unmounted /boot/efi.
+Oct 10 13:39:26 host01 systemd[1]: run-credentials-systemd\x2dsysusers.service.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted /run/credentials/systemd-sysusers.service.
+Oct 10 13:39:26 host01 systemd[1]: snap-core22-2955.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted Mount unit for core22, revision 2955.
+Oct 10 13:39:26 host01 systemd[1]: snap-lxd-40911.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted Mount unit for lxd, revision 40911.
+Oct 10 13:39:26 host01 systemd[1]: systemd-fsck@dev-disk-by\x2dlabel-UEFI.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped File System Check on /dev/disk/by-label/UEFI.
+Oct 10 13:39:26 host01 systemd[1]: Removed slice Slice /system/systemd-fsck.
+Oct 10 13:39:26 host01 systemd[1]: snap-snapd-28254.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted Mount unit for snapd, revision 28254.
+Oct 10 13:39:26 host01 systemd[1]: Stopped target Mounting snaps.
+Oct 10 13:39:26 host01 systemd[1]: run-snapd-ns-lxd.mnt.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted /run/snapd/ns/lxd.mnt.
+Oct 10 13:39:26 host01 systemd[1]: Unmounting /run/snapd/ns...
+Oct 10 13:39:26 host01 systemd[1]: run-snapd-ns.mount: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Unmounted /run/snapd/ns.
+Oct 10 13:39:26 host01 systemd[1]: Stopped target Preparation for Local File Systems.
+Oct 10 13:39:26 host01 systemd[1]: Stopped target Swaps.
+Oct 10 13:39:26 host01 systemd[1]: Reached target Unmount All Filesystems.
+Oct 10 13:39:26 host01 systemd[1]: Stopping Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling...
+Oct 10 13:39:26 host01 multipathd[421]: exit (signal)
+Oct 10 13:39:26 host01 multipathd[421]: --------shut down-------
+Oct 10 13:39:26 host01 systemd[1]: Stopping Device-Mapper Multipath Device Controller...
+Oct 10 13:39:26 host01 systemd[1]: systemd-tmpfiles-setup-dev.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped Create Static Device Nodes in /dev.
+Oct 10 13:39:26 host01 systemd[1]: systemd-sysusers.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped Create System Users.
+Oct 10 13:39:26 host01 systemd[1]: multipathd.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped Device-Mapper Multipath Device Controller.
+Oct 10 13:39:26 host01 systemd[1]: systemd-remount-fs.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped Remount Root and Kernel File Systems.
+Oct 10 13:39:26 host01 systemd[1]: systemd-fsck-root.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped File System Check on Root Device.
+Oct 10 13:39:26 host01 systemd[1]: lvm2-monitor.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Stopped Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Oct 10 13:39:26 host01 systemd[1]: Reached target System Shutdown.
+Oct 10 13:39:26 host01 systemd[1]: Reached target Late Shutdown Services.
+Oct 10 13:39:26 host01 systemd[1]: systemd-reboot.service: Deactivated successfully.
+Oct 10 13:39:26 host01 systemd[1]: Finished System Reboot.
+Oct 10 13:39:26 host01 systemd[1]: Reached target System Reboot.
+Oct 10 13:39:26 host01 systemd[1]: Shutting down.
+Oct 10 13:39:26 host01 systemd-shutdown[1]: Syncing filesystems and block devices.
+Oct 10 13:39:26 host01 systemd-shutdown[1]: Sending SIGTERM to remaining processes...
+Oct 10 13:39:26 host01 systemd-journald[383]: Journal stopped
+Oct 10 13:39:33 host01 kernel: Linux version 5.15.0-198-generic (buildd@lcy02-amd64-040) (gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #208-Ubuntu SMP Fri Sep 4 10:22:38 UTC 2026 (Ubuntu 5.15.0-198.208-generic 5.15.216)
+Oct 10 13:39:33 host01 kernel: Command line: BOOT_IMAGE=/boot/vmlinuz-5.15.0-198-generic root=LABEL=cloudimg-rootfs ro console=tty1 console=ttyS0
+Oct 10 13:39:33 host01 kernel: KERNEL supported cpus:
+Oct 10 13:39:33 host01 kernel:   Intel GenuineIntel
+Oct 10 13:39:33 host01 kernel:   AMD AuthenticAMD
+Oct 10 13:39:33 host01 kernel:   Hygon HygonGenuine
+Oct 10 13:39:33 host01 kernel:   Centaur CentaurHauls
+Oct 10 13:39:33 host01 kernel:   zhaoxin   Shanghai  
+Oct 10 13:39:33 host01 kernel: BIOS-provided physical RAM map:
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x0000000000100000-0x000000007ffd5fff] usable
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x000000007ffd6000-0x000000007fffffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x00000000b0000000-0x00000000bfffffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x00000000feffc000-0x00000000feffffff] reserved
+Oct 10 13:39:33 host01 kernel: BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Oct 10 13:39:33 host01 kernel: NX (Execute Disable) protection: active
+Oct 10 13:39:33 host01 kernel: SMBIOS 3.0.0 present.
+Oct 10 13:39:33 host01 kernel: DMI: QEMU Standard PC (Q35 + ICH9, 2009), BIOS 1.16.3-debian-1.16.3-2 04/01/2014
+Oct 10 13:39:33 host01 kernel: Hypervisor detected: KVM
+Oct 10 13:39:33 host01 kernel: kvm-clock: Using msrs 4b564d01 and 4b564d00
+Oct 10 13:39:33 host01 kernel: kvm-clock: cpu 0, msr 22c01001, primary cpu clock
+Oct 10 13:39:33 host01 kernel: kvm-clock: using sched offset of 94170876914 cycles
+Oct 10 13:39:33 host01 kernel: clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Oct 10 13:39:33 host01 kernel: tsc: Detected 2793.438 MHz processor
+Oct 10 13:39:33 host01 kernel: e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Oct 10 13:39:33 host01 kernel: e820: remove [mem 0x000a0000-0x000fffff] usable
+Oct 10 13:39:33 host01 kernel: last_pfn = 0x7ffd6 max_arch_pfn = 0x10000000000
+Oct 10 13:39:33 host01 kernel: x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- WT  
+Oct 10 13:39:33 host01 kernel: found SMP MP-table at [mem 0x000f5460-0x000f546f]
+Oct 10 13:39:33 host01 kernel: Using GB pages for direct mapping
+Oct 10 13:39:33 host01 kernel: RAMDISK: [mem 0x33f73000-0x35fb0fff]
+Oct 10 13:39:33 host01 kernel: ACPI: Early table checksum verification disabled
+Oct 10 13:39:33 host01 kernel: ACPI: RSDP 0x00000000000F52A0 000014 (v00 BOCHS )
+Oct 10 13:39:33 host01 kernel: ACPI: RSDT 0x000000007FFE239C 000038 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: FACP 0x000000007FFE218C 0000F4 (v03 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: DSDT 0x000000007FFE0040 00214C (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: FACS 0x000000007FFE0000 000040
+Oct 10 13:39:33 host01 kernel: ACPI: APIC 0x000000007FFE2280 000080 (v03 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: HPET 0x000000007FFE2300 000038 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: MCFG 0x000000007FFE2338 00003C (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: WAET 0x000000007FFE2374 000028 (v01 BOCHS  BXPC     00000001 BXPC 00000001)
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving FACP table memory at [mem 0x7ffe218c-0x7ffe227f]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving DSDT table memory at [mem 0x7ffe0040-0x7ffe218b]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving FACS table memory at [mem 0x7ffe0000-0x7ffe003f]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving APIC table memory at [mem 0x7ffe2280-0x7ffe22ff]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving HPET table memory at [mem 0x7ffe2300-0x7ffe2337]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving MCFG table memory at [mem 0x7ffe2338-0x7ffe2373]
+Oct 10 13:39:33 host01 kernel: ACPI: Reserving WAET table memory at [mem 0x7ffe2374-0x7ffe239b]
+Oct 10 13:39:33 host01 kernel: No NUMA configuration found
+Oct 10 13:39:33 host01 kernel: Faking a node at [mem 0x0000000000000000-0x000000007ffd5fff]
+Oct 10 13:39:33 host01 kernel: NODE_DATA(0) allocated [mem 0x7ffac000-0x7ffd5fff]
+Oct 10 13:39:33 host01 kernel: Zone ranges:
+Oct 10 13:39:33 host01 kernel:   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Oct 10 13:39:33 host01 kernel:   DMA32    [mem 0x0000000001000000-0x000000007ffd5fff]
+Oct 10 13:39:33 host01 kernel:   Normal   empty
+Oct 10 13:39:33 host01 kernel:   Device   empty
+Oct 10 13:39:33 host01 kernel: Movable zone start for each node
+Oct 10 13:39:33 host01 kernel: Early memory node ranges
+Oct 10 13:39:33 host01 kernel:   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Oct 10 13:39:33 host01 kernel:   node   0: [mem 0x0000000000100000-0x000000007ffd5fff]
+Oct 10 13:39:33 host01 kernel: Initmem setup node 0 [mem 0x0000000000001000-0x000000007ffd5fff]
+Oct 10 13:39:33 host01 kernel: On node 0, zone DMA: 1 pages in unavailable ranges
+Oct 10 13:39:33 host01 kernel: On node 0, zone DMA: 97 pages in unavailable ranges
+Oct 10 13:39:33 host01 kernel: On node 0, zone DMA32: 42 pages in unavailable ranges
+Oct 10 13:39:33 host01 kernel: ACPI: PM-Timer IO Port: 0x608
+Oct 10 13:39:33 host01 kernel: ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+Oct 10 13:39:33 host01 kernel: IOAPIC[0]: apic_id 0, version 17, address 0xfec00000, GSI 0-23
+Oct 10 13:39:33 host01 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Oct 10 13:39:33 host01 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 high level)
+Oct 10 13:39:33 host01 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Oct 10 13:39:33 host01 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 high level)
+Oct 10 13:39:33 host01 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 high level)
+Oct 10 13:39:33 host01 kernel: ACPI: Using ACPI (MADT) for SMP configuration information
+Oct 10 13:39:33 host01 kernel: ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Oct 10 13:39:33 host01 kernel: TSC deadline timer available
+Oct 10 13:39:33 host01 kernel: smpboot: Allowing 2 CPUs, 0 hotplug CPUs
+Oct 10 13:39:33 host01 kernel: kvm-guest: KVM setup pv remote TLB flush
+Oct 10 13:39:33 host01 kernel: kvm-guest: setup PV sched yield
+Oct 10 13:39:33 host01 kernel: PM: hibernation: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Oct 10 13:39:33 host01 kernel: PM: hibernation: Registered nosave memory: [mem 0x0009f000-0x000fffff]
+Oct 10 13:39:33 host01 kernel: [mem 0xc0000000-0xfed1bfff] available for PCI devices
+Oct 10 13:39:33 host01 kernel: Booting paravirtualized kernel on KVM
+Oct 10 13:39:33 host01 kernel: clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Oct 10 13:39:33 host01 kernel: setup_percpu: NR_CPUS:8192 nr_cpumask_bits:2 nr_cpu_ids:2 nr_node_ids:1
+Oct 10 13:39:33 host01 kernel: percpu: Embedded 62 pages/cpu s217088 r8192 d28672 u1048576
+Oct 10 13:39:33 host01 kernel: pcpu-alloc: s217088 r8192 d28672 u1048576 alloc=1*2097152
+Oct 10 13:39:33 host01 kernel: pcpu-alloc: [0] 0 1 
+Oct 10 13:39:33 host01 kernel: kvm-guest: setup async PF for cpu 0
+Oct 10 13:39:33 host01 kernel: kvm-guest: stealtime: cpu 0, msr 7dc34080
+Oct 10 13:39:33 host01 kernel: kvm-guest: PV spinlocks enabled
+Oct 10 13:39:33 host01 kernel: PV qspinlock hash table entries: 256 (order: 0, 4096 bytes, linear)
+Oct 10 13:39:33 host01 kernel: Built 1 zonelists, mobility grouping on.  Total pages: 515798
+Oct 10 13:39:33 host01 kernel: Policy zone: DMA32
+Oct 10 13:39:33 host01 kernel: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.15.0-198-generic root=LABEL=cloudimg-rootfs ro console=tty1 console=ttyS0
+Oct 10 13:39:33 host01 kernel: Dentry cache hash table entries: 262144 (order: 9, 2097152 bytes, linear)
+Oct 10 13:39:33 host01 kernel: Inode-cache hash table entries: 131072 (order: 8, 1048576 bytes, linear)
+Oct 10 13:39:33 host01 kernel: mem auto-init: stack:off, heap alloc:on, heap free:off
+Oct 10 13:39:33 host01 kernel: Memory: 1967744K/2096592K available (16393K kernel code, 4402K rwdata, 11004K rodata, 3296K init, 18764K bss, 128644K reserved, 0K cma-reserved)
+Oct 10 13:39:33 host01 kernel: SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=2, Nodes=1
+Oct 10 13:39:33 host01 kernel: ftrace: allocating 50925 entries in 199 pages
+Oct 10 13:39:33 host01 kernel: ftrace: allocated 199 pages with 5 groups
+Oct 10 13:39:33 host01 kernel: rcu: Hierarchical RCU implementation.
+Oct 10 13:39:33 host01 kernel: rcu:         RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=2.
+Oct 10 13:39:33 host01 kernel:         Rude variant of Tasks RCU enabled.
+Oct 10 13:39:33 host01 kernel:         Tracing variant of Tasks RCU enabled.
+Oct 10 13:39:33 host01 kernel: rcu: RCU calculated value of scheduler-enlistment delay is 25 jiffies.
+Oct 10 13:39:33 host01 kernel: rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=2
+Oct 10 13:39:33 host01 kernel: NR_IRQS: 524544, nr_irqs: 440, preallocated irqs: 16
+Oct 10 13:39:33 host01 kernel: random: crng init done
+Oct 10 13:39:33 host01 kernel: Console: colour VGA+ 80x25
+Oct 10 13:39:33 host01 kernel: printk: console [tty1] enabled
+Oct 10 13:39:33 host01 kernel: printk: console [ttyS0] enabled
+Oct 10 13:39:33 host01 kernel: ACPI: Core revision 20210730
+Oct 10 13:39:33 host01 kernel: clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 19112604467 ns
+Oct 10 13:39:33 host01 kernel: APIC: Switch to symmetric I/O mode setup
+Oct 10 13:39:33 host01 kernel: x2apic enabled
+Oct 10 13:39:33 host01 kernel: Switched APIC routing to physical x2apic.
+Oct 10 13:39:33 host01 kernel: kvm-guest: setup PV IPIs
+Oct 10 13:39:33 host01 kernel: ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Oct 10 13:39:33 host01 kernel: clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x284409db922, max_idle_ns: 440795228871 ns
+Oct 10 13:39:33 host01 kernel: Calibrating delay loop (skipped) preset value.. 5586.87 BogoMIPS (lpj=11173752)
+Oct 10 13:39:33 host01 kernel: x86/cpu: User Mode Instruction Prevention (UMIP) activated
+Oct 10 13:39:33 host01 kernel: Last level iTLB entries: 4KB 0, 2MB 0, 4MB 0
+Oct 10 13:39:33 host01 kernel: Last level dTLB entries: 4KB 0, 2MB 0, 4MB 0, 1GB 0
+Oct 10 13:39:33 host01 kernel: Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Oct 10 13:39:33 host01 kernel: Spectre V2 : Mitigation: Retpolines
+Oct 10 13:39:33 host01 kernel: Spectre V2 : Spectre v2 / SpectreRSB: Filling RSB on context switch and VMEXIT
+Oct 10 13:39:33 host01 kernel: RETBleed: WARNING: Spectre v2 mitigation leaves CPU vulnerable to RETBleed attacks, data leaks possible!
+Oct 10 13:39:33 host01 kernel: RETBleed: Vulnerable
+Oct 10 13:39:33 host01 kernel: Speculative Store Bypass: Vulnerable
+Oct 10 13:39:33 host01 kernel: MMIO Stale Data: Vulnerable: Clear CPU buffers attempted, no microcode
+Oct 10 13:39:33 host01 kernel: active return thunk: its_return_thunk
+Oct 10 13:39:33 host01 kernel: ITS: Mitigation: Aligned branch/return thunks
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x020: 'AVX-512 opmask'
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x040: 'AVX-512 Hi256'
+Oct 10 13:39:33 host01 kernel: x86/fpu: Supporting XSAVE feature 0x080: 'AVX-512 ZMM_Hi256'
+Oct 10 13:39:33 host01 kernel: x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Oct 10 13:39:33 host01 kernel: x86/fpu: xstate_offset[5]:  832, xstate_sizes[5]:   64
+Oct 10 13:39:33 host01 kernel: x86/fpu: xstate_offset[6]:  896, xstate_sizes[6]:  512
+Oct 10 13:39:33 host01 kernel: x86/fpu: xstate_offset[7]: 1408, xstate_sizes[7]: 1024
+Oct 10 13:39:33 host01 kernel: x86/fpu: Enabled xstate features 0xe7, context size is 2432 bytes, using 'compacted' format.
+Oct 10 13:39:33 host01 kernel: Freeing SMP alternatives memory: 44K
+Oct 10 13:39:33 host01 kernel: pid_max: default: 32768 minimum: 301
+Oct 10 13:39:33 host01 kernel: LSM: Security Framework initializing
+Oct 10 13:39:33 host01 kernel: landlock: Up and running.
+Oct 10 13:39:33 host01 kernel: Yama: becoming mindful.
+Oct 10 13:39:33 host01 kernel: AppArmor: AppArmor initialized
+Oct 10 13:39:33 host01 kernel: Mount-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+Oct 10 13:39:33 host01 kernel: Mountpoint-cache hash table entries: 4096 (order: 3, 32768 bytes, linear)
+Oct 10 13:39:33 host01 kernel: smpboot: CPU0: Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz (family: 0x6, model: 0x6a, stepping: 0x6)
+Oct 10 13:39:33 host01 kernel: Performance Events: unsupported p6 CPU model 106 no PMU driver, software events only.
+Oct 10 13:39:33 host01 kernel: signal: max sigframe size: 3632
+Oct 10 13:39:33 host01 kernel: rcu: Hierarchical SRCU implementation.
+Oct 10 13:39:33 host01 kernel: NMI watchdog: Perf NMI watchdog permanently disabled
+Oct 10 13:39:33 host01 kernel: smp: Bringing up secondary CPUs ...
+Oct 10 13:39:33 host01 kernel: x86: Booting SMP configuration:
+Oct 10 13:39:33 host01 kernel: .... node  #0, CPUs:      #1
+Oct 10 13:39:33 host01 kernel: kvm-clock: cpu 1, msr 22c01041, secondary cpu clock
+Oct 10 13:39:33 host01 kernel: kvm-guest: setup async PF for cpu 1
+Oct 10 13:39:33 host01 kernel: kvm-guest: stealtime: cpu 1, msr 7dd34080
+Oct 10 13:39:33 host01 kernel: smp: Brought up 1 node, 2 CPUs
+Oct 10 13:39:33 host01 kernel: smpboot: Max logical packages: 1
+Oct 10 13:39:33 host01 kernel: smpboot: Total of 2 processors activated (11173.75 BogoMIPS)
+Oct 10 13:39:33 host01 kernel: devtmpfs: initialized
+Oct 10 13:39:33 host01 kernel: x86/mm: Memory block size: 128MB
+Oct 10 13:39:33 host01 kernel: clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Oct 10 13:39:33 host01 kernel: futex hash table entries: 512 (order: 3, 32768 bytes, linear)
+Oct 10 13:39:33 host01 kernel: pinctrl core: initialized pinctrl subsystem
+Oct 10 13:39:33 host01 kernel: PM: RTC time: 13:39:28, date: 2026-10-10
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_NETLINK/PF_ROUTE protocol family
+Oct 10 13:39:33 host01 kernel: DMA: preallocated 256 KiB GFP_KERNEL pool for atomic allocations
+Oct 10 13:39:33 host01 kernel: DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+Oct 10 13:39:33 host01 kernel: DMA: preallocated 256 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+Oct 10 13:39:33 host01 kernel: audit: initializing netlink subsys (disabled)
+Oct 10 13:39:33 host01 kernel: audit: type=2000 audit(1791639568.654:1): state=initialized audit_enabled=0 res=1
+Oct 10 13:39:33 host01 kernel: thermal_sys: Registered thermal governor 'fair_share'
+Oct 10 13:39:33 host01 kernel: thermal_sys: Registered thermal governor 'bang_bang'
+Oct 10 13:39:33 host01 kernel: thermal_sys: Registered thermal governor 'step_wise'
+Oct 10 13:39:33 host01 kernel: thermal_sys: Registered thermal governor 'user_space'
+Oct 10 13:39:33 host01 kernel: thermal_sys: Registered thermal governor 'power_allocator'
+Oct 10 13:39:33 host01 kernel: cpuidle: using governor ladder
+Oct 10 13:39:33 host01 kernel: cpuidle: using governor menu
+Oct 10 13:39:33 host01 kernel: ACPI: bus type PCI registered
+Oct 10 13:39:33 host01 kernel: acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Oct 10 13:39:33 host01 kernel: PCI: MMCONFIG for domain 0000 [bus 00-ff] at [mem 0xb0000000-0xbfffffff] (base 0xb0000000)
+Oct 10 13:39:33 host01 kernel: PCI: MMCONFIG at [mem 0xb0000000-0xbfffffff] reserved in E820
+Oct 10 13:39:33 host01 kernel: PCI: Using configuration type 1 for base access
+Oct 10 13:39:33 host01 kernel: kprobes: kprobe jump-optimization is enabled. All kprobes are optimized if possible.
+Oct 10 13:39:33 host01 kernel: HugeTLB registered 1.00 GiB page size, pre-allocated 0 pages
+Oct 10 13:39:33 host01 kernel: HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Module Device)
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Processor Device)
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Processor Aggregator Device)
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Linux-Dell-Video)
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Oct 10 13:39:33 host01 kernel: ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Oct 10 13:39:33 host01 kernel: ACPI: 1 ACPI AML tables successfully acquired and loaded
+Oct 10 13:39:33 host01 kernel: ACPI: Interpreter enabled
+Oct 10 13:39:33 host01 kernel: ACPI: PM: (supports S0 S3 S4 S5)
+Oct 10 13:39:33 host01 kernel: ACPI: Using IOAPIC for interrupt routing
+Oct 10 13:39:33 host01 kernel: PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Oct 10 13:39:33 host01 kernel: PCI: Using E820 reservations for host bridge windows
+Oct 10 13:39:33 host01 kernel: ACPI: Enabled 2 GPEs in block 00 to 3F
+Oct 10 13:39:33 host01 kernel: ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Oct 10 13:39:33 host01 kernel: acpi PNP0A08:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+Oct 10 13:39:33 host01 kernel: acpi PNP0A08:00: _OSC: platform does not support [PCIeHotplug LTR DPC]
+Oct 10 13:39:33 host01 kernel: acpi PNP0A08:00: _OSC: OS now controls [SHPCHotplug PME AER PCIeCapability]
+Oct 10 13:39:33 host01 kernel: PCI host bridge to bus 0000:00
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [mem 0x80000000-0xafffffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [mem 0xc0000000-0xfebfffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [mem 0x100000000-0x8ffffffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: root bus resource [bus 00-ff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:00.0: [8086:29c0] type 00 class 0x060000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: [1234:1111] type 00 class 0x030000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: reg 0x10: [mem 0xfd000000-0xfdffffff pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: reg 0x18: [mem 0xfeb90000-0xfeb90fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: reg 0x30: [mem 0xfeb80000-0xfeb8ffff pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:02.0: [1af4:1001] type 00 class 0x010000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:02.0: reg 0x10: [io  0xc000-0xc07f]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:02.0: reg 0x14: [mem 0xfeb91000-0xfeb91fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:02.0: reg 0x20: [mem 0xfe000000-0xfe003fff 64bit pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:03.0: [1af4:1001] type 00 class 0x010000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:03.0: reg 0x10: [io  0xc080-0xc0ff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:03.0: reg 0x14: [mem 0xfeb92000-0xfeb92fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:03.0: reg 0x20: [mem 0xfe004000-0xfe007fff 64bit pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:04.0: [1af4:1000] type 00 class 0x020000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:04.0: reg 0x10: [io  0xc1c0-0xc1df]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:04.0: reg 0x14: [mem 0xfeb93000-0xfeb93fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:04.0: reg 0x20: [mem 0xfe008000-0xfe00bfff 64bit pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:04.0: reg 0x30: [mem 0xfeb00000-0xfeb7ffff pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:05.0: [1af4:1001] type 00 class 0x010000
+Oct 10 13:39:33 host01 kernel: pci 0000:00:05.0: reg 0x10: [io  0xc100-0xc17f]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:05.0: reg 0x14: [mem 0xfeb94000-0xfeb94fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:05.0: reg 0x20: [mem 0xfe00c000-0xfe00ffff 64bit pref]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.0: [8086:2918] type 00 class 0x060100
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.0: quirk: [io  0x0600-0x067f] claimed by ICH6 ACPI/GPIO/TCO
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.2: [8086:2922] type 00 class 0x010601
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.2: reg 0x20: [io  0xc1e0-0xc1ff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.2: reg 0x24: [mem 0xfeb95000-0xfeb95fff]
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.3: [8086:2930] type 00 class 0x0c0500
+Oct 10 13:39:33 host01 kernel: pci 0000:00:1f.3: reg 0x20: [io  0x0700-0x073f]
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKA configured for IRQ 10
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKB configured for IRQ 10
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKC configured for IRQ 11
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKD configured for IRQ 11
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKE configured for IRQ 10
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKF configured for IRQ 10
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKG configured for IRQ 11
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link LNKH configured for IRQ 11
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIA configured for IRQ 16
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIB configured for IRQ 17
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIC configured for IRQ 18
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSID configured for IRQ 19
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIE configured for IRQ 20
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIF configured for IRQ 21
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIG configured for IRQ 22
+Oct 10 13:39:33 host01 kernel: ACPI: PCI: Interrupt link GSIH configured for IRQ 23
+Oct 10 13:39:33 host01 kernel: iommu: Default domain type: Translated 
+Oct 10 13:39:33 host01 kernel: iommu: DMA domain TLB invalidation policy: lazy mode 
+Oct 10 13:39:33 host01 kernel: SCSI subsystem initialized
+Oct 10 13:39:33 host01 kernel: libata version 3.00 loaded.
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: vgaarb: setting as boot VGA device
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+Oct 10 13:39:33 host01 kernel: pci 0000:00:01.0: vgaarb: bridge control possible
+Oct 10 13:39:33 host01 kernel: vgaarb: loaded
+Oct 10 13:39:33 host01 kernel: ACPI: bus type USB registered
+Oct 10 13:39:33 host01 kernel: usbcore: registered new interface driver usbfs
+Oct 10 13:39:33 host01 kernel: usbcore: registered new interface driver hub
+Oct 10 13:39:33 host01 kernel: usbcore: registered new device driver usb
+Oct 10 13:39:33 host01 kernel: pps_core: LinuxPPS API ver. 1 registered
+Oct 10 13:39:33 host01 kernel: pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Oct 10 13:39:33 host01 kernel: PTP clock support registered
+Oct 10 13:39:33 host01 kernel: EDAC MC: Ver: 3.0.0
+Oct 10 13:39:33 host01 kernel: NetLabel: Initializing
+Oct 10 13:39:33 host01 kernel: NetLabel:  domain hash size = 128
+Oct 10 13:39:33 host01 kernel: NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+Oct 10 13:39:33 host01 kernel: NetLabel:  unlabeled traffic allowed by default
+Oct 10 13:39:33 host01 kernel: PCI: Using ACPI for IRQ routing
+Oct 10 13:39:33 host01 kernel: PCI: pci_cache_line_size set to 64 bytes
+Oct 10 13:39:33 host01 kernel: e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Oct 10 13:39:33 host01 kernel: e820: reserve RAM buffer [mem 0x7ffd6000-0x7fffffff]
+Oct 10 13:39:33 host01 kernel: hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+Oct 10 13:39:33 host01 kernel: hpet0: 3 comparators, 64-bit 100.000000 MHz counter
+Oct 10 13:39:33 host01 kernel: clocksource: Switched to clocksource kvm-clock
+Oct 10 13:39:33 host01 kernel: VFS: Disk quotas dquot_6.6.0
+Oct 10 13:39:33 host01 kernel: VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Oct 10 13:39:33 host01 kernel: AppArmor: AppArmor Filesystem Enabled
+Oct 10 13:39:33 host01 kernel: pnp: PnP ACPI init
+Oct 10 13:39:33 host01 kernel: system 00:05: [mem 0xb0000000-0xbfffffff window] has been reserved
+Oct 10 13:39:33 host01 kernel: pnp: PnP ACPI: found 6 devices
+Oct 10 13:39:33 host01 kernel: clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_INET protocol family
+Oct 10 13:39:33 host01 kernel: IP idents hash table entries: 32768 (order: 6, 262144 bytes, linear)
+Oct 10 13:39:33 host01 kernel: tcp_listen_portaddr_hash hash table entries: 1024 (order: 2, 16384 bytes, linear)
+Oct 10 13:39:33 host01 kernel: Table-perturb hash table entries: 65536 (order: 6, 262144 bytes, linear)
+Oct 10 13:39:33 host01 kernel: TCP established hash table entries: 16384 (order: 5, 131072 bytes, linear)
+Oct 10 13:39:33 host01 kernel: TCP bind hash table entries: 16384 (order: 6, 262144 bytes, linear)
+Oct 10 13:39:33 host01 kernel: TCP: Hash tables configured (established 16384 bind 16384)
+Oct 10 13:39:33 host01 kernel: MPTCP token hash table entries: 2048 (order: 4, 49152 bytes, linear)
+Oct 10 13:39:33 host01 kernel: UDP hash table entries: 1024 (order: 3, 32768 bytes, linear)
+Oct 10 13:39:33 host01 kernel: UDP-Lite hash table entries: 1024 (order: 3, 32768 bytes, linear)
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_UNIX/PF_LOCAL protocol family
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_XDP protocol family
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 7 [mem 0x80000000-0xafffffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 8 [mem 0xc0000000-0xfebfffff window]
+Oct 10 13:39:33 host01 kernel: pci_bus 0000:00: resource 9 [mem 0x100000000-0x8ffffffff window]
+Oct 10 13:39:33 host01 kernel: PCI: CLS 0 bytes, default 64
+Oct 10 13:39:33 host01 kernel: clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x284409db922, max_idle_ns: 440795228871 ns
+Oct 10 13:39:33 host01 kernel: Trying to unpack rootfs image as initramfs...
+Oct 10 13:39:33 host01 kernel: Initialise system trusted keyrings
+Oct 10 13:39:33 host01 kernel: Key type blacklist registered
+Oct 10 13:39:33 host01 kernel: workingset: timestamp_bits=36 max_order=19 bucket_order=0
+Oct 10 13:39:33 host01 kernel: zbud: loaded
+Oct 10 13:39:33 host01 kernel: squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Oct 10 13:39:33 host01 kernel: fuse: init (API version 7.34)
+Oct 10 13:39:33 host01 kernel: integrity: Platform Keyring initialized
+Oct 10 13:39:33 host01 kernel: Key type asymmetric registered
+Oct 10 13:39:33 host01 kernel: Asymmetric key parser 'x509' registered
+Oct 10 13:39:33 host01 kernel: Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+Oct 10 13:39:33 host01 kernel: io scheduler mq-deadline registered
+Oct 10 13:39:33 host01 kernel: shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Oct 10 13:39:33 host01 kernel: input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Oct 10 13:39:33 host01 kernel: ACPI: button: Power Button [PWRF]
+Oct 10 13:39:33 host01 kernel: ACPI: \_SB_.GSIG: Enabled at IRQ 22
+Oct 10 13:39:33 host01 kernel: ACPI: \_SB_.GSIH: Enabled at IRQ 23
+Oct 10 13:39:33 host01 kernel: ACPI: \_SB_.GSIE: Enabled at IRQ 20
+Oct 10 13:39:33 host01 kernel: ACPI: \_SB_.GSIF: Enabled at IRQ 21
+Oct 10 13:39:33 host01 kernel: Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Oct 10 13:39:33 host01 kernel: 00:03: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Oct 10 13:39:33 host01 kernel: Linux agpgart interface v0.103
+Oct 10 13:39:33 host01 kernel: loop: module loaded
+Oct 10 13:39:33 host01 kernel: tun: Universal TUN/TAP device driver, 1.6
+Oct 10 13:39:33 host01 kernel: PPP generic driver version 2.4.2
+Oct 10 13:39:33 host01 kernel: VFIO - User Level meta-driver version: 0.3
+Oct 10 13:39:33 host01 kernel: ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Oct 10 13:39:33 host01 kernel: ehci-pci: EHCI PCI platform driver
+Oct 10 13:39:33 host01 kernel: ehci-platform: EHCI generic platform driver
+Oct 10 13:39:33 host01 kernel: ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Oct 10 13:39:33 host01 kernel: ohci-pci: OHCI PCI platform driver
+Oct 10 13:39:33 host01 kernel: ohci-platform: OHCI generic platform driver
+Oct 10 13:39:33 host01 kernel: uhci_hcd: USB Universal Host Controller Interface driver
+Oct 10 13:39:33 host01 kernel: i8042: PNP: PS/2 Controller [PNP0303:KBD,PNP0f13:MOU] at 0x60,0x64 irq 1,12
+Oct 10 13:39:33 host01 kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Oct 10 13:39:33 host01 kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Oct 10 13:39:33 host01 kernel: mousedev: PS/2 mouse device common for all mice
+Oct 10 13:39:33 host01 kernel: input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input1
+Oct 10 13:39:33 host01 kernel: rtc_cmos 00:04: RTC can wake from S4
+Oct 10 13:39:33 host01 kernel: rtc_cmos 00:04: registered as rtc0
+Oct 10 13:39:33 host01 kernel: rtc_cmos 00:04: setting system clock to 2026-10-10T13:39:29 UTC (1791639569)
+Oct 10 13:39:33 host01 kernel: rtc_cmos 00:04: alarms up to one day, y3k, 242 bytes nvram, hpet irqs
+Oct 10 13:39:33 host01 kernel: i2c_dev: i2c /dev entries driver
+Oct 10 13:39:33 host01 kernel: device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+Oct 10 13:39:33 host01 kernel: device-mapper: uevent: version 1.0.3
+Oct 10 13:39:33 host01 kernel: device-mapper: ioctl: 4.45.0-ioctl (2021-03-22) initialised: dm-devel@redhat.com
+Oct 10 13:39:33 host01 kernel: intel_pstate: CPU model not supported
+Oct 10 13:39:33 host01 kernel: ledtrig-cpu: registered to indicate activity on CPUs
+Oct 10 13:39:33 host01 kernel: drop_monitor: Initializing network drop monitor service
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_INET6 protocol family
+Oct 10 13:39:33 host01 kernel: Freeing initrd memory: 33016K
+Oct 10 13:39:33 host01 kernel: Segment Routing with IPv6
+Oct 10 13:39:33 host01 kernel: In-situ OAM (IOAM) with IPv6
+Oct 10 13:39:33 host01 kernel: NET: Registered PF_PACKET protocol family
+Oct 10 13:39:33 host01 kernel: Key type dns_resolver registered
+Oct 10 13:39:33 host01 kernel: IPI shorthand broadcast: enabled
+Oct 10 13:39:33 host01 kernel: sched_clock: Marking stable (1029198168, 231137888)->(1315344897, -55008841)
+Oct 10 13:39:33 host01 kernel: registered taskstats version 1
+Oct 10 13:39:33 host01 kernel: Loading compiled-in X.509 certificates
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Build time autogenerated kernel key: 07c83e5d391297488fe994d53b2750b233138d6e'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Live Patch Signing 2025 Kmod: d541cef61dc7e793b7eb7e899970a2eef0b5dc8c'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing 2025 Kmod: 4627603d2357a2a3f81006370894c221175893e9'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+Oct 10 13:39:33 host01 kernel: blacklist: Loading compiled-in revocation X.509 certificates
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2017): 242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (ESM 2018): 365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2019): c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v1): a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v2): 4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v3): 100437bb6de6e469b581e61cd66bce3ef4ed53af'
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (Ubuntu Core 2019): c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+Oct 10 13:39:33 host01 kernel: zswap: loaded using pool lzo/zbud
+Oct 10 13:39:33 host01 kernel: Key type .fscrypt registered
+Oct 10 13:39:33 host01 kernel: Key type fscrypt-provisioning registered
+Oct 10 13:39:33 host01 kernel: Key type encrypted registered
+Oct 10 13:39:33 host01 kernel: AppArmor: AppArmor sha1 policy hashing enabled
+Oct 10 13:39:33 host01 kernel: ima: No TPM chip found, activating TPM-bypass!
+Oct 10 13:39:33 host01 kernel: Loading compiled-in module X.509 certificates
+Oct 10 13:39:33 host01 kernel: Loaded X.509 cert 'Build time autogenerated kernel key: 07c83e5d391297488fe994d53b2750b233138d6e'
+Oct 10 13:39:33 host01 kernel: ima: Allocated hash algorithm: sha1
+Oct 10 13:39:33 host01 kernel: ima: No architecture policies found
+Oct 10 13:39:33 host01 kernel: evm: Initialising EVM extended attributes:
+Oct 10 13:39:33 host01 kernel: evm: security.selinux
+Oct 10 13:39:33 host01 kernel: evm: security.SMACK64
+Oct 10 13:39:33 host01 kernel: evm: security.SMACK64EXEC
+Oct 10 13:39:33 host01 kernel: evm: security.SMACK64TRANSMUTE
+Oct 10 13:39:33 host01 kernel: evm: security.SMACK64MMAP
+Oct 10 13:39:33 host01 kernel: evm: security.apparmor
+Oct 10 13:39:33 host01 kernel: evm: security.ima
+Oct 10 13:39:33 host01 kernel: evm: security.capability
+Oct 10 13:39:33 host01 kernel: evm: HMAC attrs: 0x1
+Oct 10 13:39:33 host01 kernel: PM:   Magic number: 14:287:685
+Oct 10 13:39:33 host01 kernel:  clocksource: hash matches
+Oct 10 13:39:33 host01 kernel: RAS: Correctable Errors collector initialized.
+Oct 10 13:39:33 host01 kernel: clk: Disabling unused clocks
+Oct 10 13:39:33 host01 kernel: Freeing unused decrypted memory: 2036K
+Oct 10 13:39:33 host01 kernel: Freeing unused kernel image (initmem) memory: 3296K
+Oct 10 13:39:33 host01 kernel: Write protecting the kernel read-only data: 30720k
+Oct 10 13:39:33 host01 kernel: Freeing unused kernel image (text/rodata gap) memory: 2036K
+Oct 10 13:39:33 host01 kernel: Freeing unused kernel image (rodata/data gap) memory: 1284K
+Oct 10 13:39:33 host01 kernel: x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Oct 10 13:39:33 host01 kernel: Run /init as init process
+Oct 10 13:39:33 host01 kernel:   with arguments:
+Oct 10 13:39:33 host01 kernel:     /init
+Oct 10 13:39:33 host01 kernel:   with environment:
+Oct 10 13:39:33 host01 kernel:     HOME=/
+Oct 10 13:39:33 host01 kernel:     TERM=linux
+Oct 10 13:39:33 host01 kernel: ahci 0000:00:1f.2: version 3.0
+Oct 10 13:39:33 host01 kernel: virtio_blk virtio0: [vda] 41943040 512-byte logical blocks (21.5 GB/20.0 GiB)
+Oct 10 13:39:33 host01 kernel: ACPI: \_SB_.GSIA: Enabled at IRQ 16
+Oct 10 13:39:33 host01 kernel: cryptd: max_cpu_qlen set to 1000
+Oct 10 13:39:33 host01 kernel: input: VirtualPS/2 VMware VMMouse as /devices/platform/i8042/serio1/input/input4
+Oct 10 13:39:33 host01 kernel: ahci 0000:00:1f.2: AHCI 0001.0000 32 slots 6 ports 1.5 Gbps 0x3f impl SATA mode
+Oct 10 13:39:33 host01 kernel: ahci 0000:00:1f.2: flags: 64bit ncq only 
+Oct 10 13:39:33 host01 kernel: AVX2 version of gcm_enc/dec engaged.
+Oct 10 13:39:33 host01 kernel: input: VirtualPS/2 VMware VMMouse as /devices/platform/i8042/serio1/input/input3
+Oct 10 13:39:33 host01 kernel: AES CTR mode by8 optimization enabled
+Oct 10 13:39:33 host01 kernel:  vda: vda1 vda14 vda15
+Oct 10 13:39:33 host01 kernel: scsi host0: ahci
+Oct 10 13:39:33 host01 kernel: virtio_blk virtio1: [vdb] 131072 512-byte logical blocks (67.1 MB/64.0 MiB)
+Oct 10 13:39:33 host01 kernel: scsi host1: ahci
+Oct 10 13:39:33 host01 kernel: virtio_blk virtio3: [vdc] 736 512-byte logical blocks (377 kB/368 KiB)
+Oct 10 13:39:33 host01 kernel: scsi host2: ahci
+Oct 10 13:39:33 host01 kernel: scsi host3: ahci
+Oct 10 13:39:33 host01 kernel: scsi host4: ahci
+Oct 10 13:39:33 host01 kernel: scsi host5: ahci
+Oct 10 13:39:33 host01 kernel: ata1: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95100 irq 27
+Oct 10 13:39:33 host01 kernel: ata2: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95180 irq 27
+Oct 10 13:39:33 host01 kernel: ata3: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95200 irq 27
+Oct 10 13:39:33 host01 kernel: ata4: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95280 irq 27
+Oct 10 13:39:33 host01 kernel: virtio_net virtio2 enp0s4: renamed from eth0
+Oct 10 13:39:33 host01 kernel: ata5: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95300 irq 27
+Oct 10 13:39:33 host01 kernel: ata6: SATA max UDMA/133 abar m4096@0xfeb95000 port 0xfeb95380 irq 27
+Oct 10 13:39:33 host01 kernel: ata4: SATA link down (SStatus 0 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata2: SATA link down (SStatus 0 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata1: SATA link down (SStatus 0 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata6: SATA link down (SStatus 0 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata5: SATA link down (SStatus 0 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata3: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+Oct 10 13:39:33 host01 kernel: ata3.00: ATAPI: QEMU DVD-ROM, 2.5+, max UDMA/100
+Oct 10 13:39:33 host01 kernel: ata3.00: applying bridge limits
+Oct 10 13:39:33 host01 kernel: ata3.00: configured for UDMA/100
+Oct 10 13:39:33 host01 kernel: scsi 2001:db8::1 CD-ROM            QEMU     QEMU DVD-ROM     2.5+ PQ: 0 ANSI: 5
+Oct 10 13:39:33 host01 kernel: sr 2001:db8::1 [sr0] scsi3-mmc drive: 4x/4x cd/rw xa/form2 tray
+Oct 10 13:39:33 host01 kernel: cdrom: Uniform CD-ROM driver Revision: 3.20
+Oct 10 13:39:33 host01 kernel: sr 2001:db8::1 Attached scsi CD-ROM sr0
+Oct 10 13:39:33 host01 kernel: sr 2001:db8::1 Attached scsi generic sg0 type 5
+Oct 10 13:39:33 host01 kernel: raid6: avx512x4 gen() 43740 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx512x4 xor() 10158 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx512x2 gen() 44770 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx512x2 xor() 30763 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx512x1 gen() 43522 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx512x1 xor() 28023 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x4   gen() 37049 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x4   xor() 10437 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x2   gen() 35362 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x2   xor() 25049 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x1   gen() 27662 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: avx2x1   xor() 19608 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x4   gen() 11852 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x4   xor()  7193 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x2   gen() 11330 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x2   xor()  7639 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x1   gen()  9770 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: sse2x1   xor()  6139 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: using algorithm avx512x2 gen() 44770 MB/s
+Oct 10 13:39:33 host01 kernel: raid6: .... xor() 30763 MB/s, rmw enabled
+Oct 10 13:39:33 host01 kernel: raid6: using avx512x2 recovery algorithm
+Oct 10 13:39:33 host01 kernel: clocksource: Long readout interval, skipping watchdog check: cs_nsec: 1309881929 wd_nsec: 1309881913
+Oct 10 13:39:33 host01 kernel: xor: automatically using best checksumming function   avx       
+Oct 10 13:39:33 host01 kernel: async_tx: api initialized (async)
+Oct 10 13:39:33 host01 kernel: Btrfs loaded, crc32c=crc32c-intel, zoned=yes, fsverity=yes
+Oct 10 13:39:33 host01 kernel: EXT4-fs (vda1): mounted filesystem with ordered data mode. Opts: (null). Quota mode: none.
+Oct 10 13:39:33 host01 systemd[1]: Inserted module 'autofs4'
+Oct 10 13:39:33 host01 systemd[1]: systemd 249.11-0ubuntu3.22 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+Oct 10 13:39:33 host01 systemd[1]: Detected virtualization kvm.
+Oct 10 13:39:33 host01 systemd[1]: Detected architecture x86-64.
+Oct 10 13:39:33 host01 systemd[1]: Hostname set to <host01>.
+Oct 10 13:39:33 host01 systemd[1]: Configuration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.
+Oct 10 13:39:33 host01 systemd[1]: /lib/systemd/system/snapd.service:23: Unknown key name 'RestartMode' in section 'Service', ignoring.
+Oct 10 13:39:33 host01 systemd[1]: Queued start job for default target Graphical Interface.
+Oct 10 13:39:33 host01 systemd[1]: Created slice Slice /system/modprobe.
+Oct 10 13:39:33 host01 systemd[1]: Created slice Slice /system/serial-getty.
+Oct 10 13:39:33 host01 systemd[1]: Created slice Slice /system/systemd-fsck.
+Oct 10 13:39:33 host01 systemd[1]: Created slice User and Session Slice.
+Oct 10 13:39:33 host01 systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+Oct 10 13:39:33 host01 systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Slice Units.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Mounting snaps.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Swaps.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Local Verity Protected Volumes.
+Oct 10 13:39:33 host01 systemd[1]: Listening on Device-mapper event daemon FIFOs.
+Oct 10 13:39:33 host01 systemd[1]: Listening on LVM2 poll daemon socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on multipathd control socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on Syslog Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on fsck to fsckd communication Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on initctl Compatibility Named Pipe.
+Oct 10 13:39:33 host01 systemd[1]: Listening on Journal Audit Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on Journal Socket (/dev/log).
+Oct 10 13:39:33 host01 systemd[1]: Listening on Journal Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on Network Service Netlink Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on udev Control Socket.
+Oct 10 13:39:33 host01 systemd[1]: Listening on udev Kernel Socket.
+Oct 10 13:39:33 host01 systemd[1]: Mounting Huge Pages File System...
+Oct 10 13:39:33 host01 systemd[1]: Mounting POSIX Message Queue File System...
+Oct 10 13:39:33 host01 systemd[1]: Mounting Kernel Debug File System...
+Oct 10 13:39:33 host01 systemd[1]: Mounting Kernel Trace File System...
+Oct 10 13:39:33 host01 systemd[1]: Starting Journal Service...
+Oct 10 13:39:33 host01 systemd[1]: Starting Set the console keyboard layout...
+Oct 10 13:39:33 host01 systemd[1]: Starting Create List of Static Device Nodes...
+Oct 10 13:39:33 host01 systemd[1]: Starting Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling...
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in LXD - agent being skipped.
+Oct 10 13:39:33 host01 systemd[1]: Starting Load Kernel Module configfs...
+Oct 10 13:39:33 host01 systemd[1]: Starting Load Kernel Module drm...
+Oct 10 13:39:33 host01 systemd-journald[383]: Journal started
+Oct 10 13:39:33 host01 systemd-journald[383]: Runtime Journal (/run/log/journal/00000000000000000000000000000000) is 2.4M, max 19.6M, 17.1M free.
+Oct 10 13:39:33 host01 systemd[1]: Starting Load Kernel Module efi_pstore...
+Oct 10 13:39:33 host01 systemd[1]: Starting Load Kernel Module fuse...
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in OpenVSwitch configuration for cleanup being skipped.
+Oct 10 13:39:33 host01 systemd[1]: Starting File System Check on Root Device...
+Oct 10 13:39:33 host01 systemd[1]: Starting Load Kernel Modules...
+Oct 10 13:39:33 host01 systemd[1]: Starting Coldplug All udev Devices...
+Oct 10 13:39:33 host01 systemd[1]: Started Journal Service.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Huge Pages File System.
+Oct 10 13:39:33 host01 systemd-fsck[400]: cloudimg-rootfs: clean, 74334/2580480 files, 600689/5214459 blocks
+Oct 10 13:39:33 host01 systemd[1]: Mounted POSIX Message Queue File System.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Kernel Debug File System.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Kernel Trace File System.
+Oct 10 13:39:33 host01 systemd[1]: Finished Set the console keyboard layout.
+Oct 10 13:39:33 host01 systemd[1]: Finished Create List of Static Device Nodes.
+Oct 10 13:39:33 host01 systemd[1]: Finished Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Oct 10 13:39:33 host01 systemd[1]: modprobe@configfs.service: Deactivated successfully.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load Kernel Module configfs.
+Oct 10 13:39:33 host01 systemd[1]: modprobe@drm.service: Deactivated successfully.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load Kernel Module drm.
+Oct 10 13:39:33 host01 systemd[1]: modprobe@efi_pstore.service: Deactivated successfully.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load Kernel Module efi_pstore.
+Oct 10 13:39:33 host01 systemd[1]: modprobe@fuse.service: Deactivated successfully.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load Kernel Module fuse.
+Oct 10 13:39:33 host01 systemd[1]: Finished File System Check on Root Device.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load Kernel Modules.
+Oct 10 13:39:33 host01 systemd[1]: Mounting FUSE Control File System...
+Oct 10 13:39:33 host01 systemd[1]: Mounting Kernel Configuration File System...
+Oct 10 13:39:33 host01 systemd[1]: Started File System Check Daemon to report status.
+Oct 10 13:39:33 host01 systemd[1]: Starting Remount Root and Kernel File Systems...
+Oct 10 13:39:33 host01 systemd[1]: Starting Apply Kernel Variables...
+Oct 10 13:39:33 host01 systemd[1]: Mounted FUSE Control File System.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Kernel Configuration File System.
+Oct 10 13:39:33 host01 kernel: EXT4-fs (vda1): re-mounted. Opts: discard,errors=remount-ro. Quota mode: none.
+Oct 10 13:39:33 host01 systemd[1]: Finished Remount Root and Kernel File Systems.
+Oct 10 13:39:33 host01 systemd[1]: Starting Device-Mapper Multipath Device Controller...
+Oct 10 13:39:33 host01 systemd[1]: Starting Flush Journal to Persistent Storage...
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in Platform Persistent Storage Archival being skipped.
+Oct 10 13:39:33 host01 systemd-journald[383]: Time spent on flushing to /var/log/journal/00000000000000000000000000000000 is 11.897ms for 576 entries.
+Oct 10 13:39:33 host01 systemd-journald[383]: System Journal (/var/log/journal/00000000000000000000000000000000) is 8.0M, max 1.9G, 1.9G free.
+Oct 10 13:39:33 host01 kernel: alua: device handler registered
+Oct 10 13:39:33 host01 kernel: emc: device handler registered
+Oct 10 13:39:33 host01 kernel: rdac: device handler registered
+Oct 10 13:39:33 host01 systemd[1]: Starting Load/Save Random Seed...
+Oct 10 13:39:33 host01 systemd[1]: Starting Create System Users...
+Oct 10 13:39:33 host01 systemd[1]: Finished Apply Kernel Variables.
+Oct 10 13:39:33 host01 systemd[1]: Finished Load/Save Random Seed.
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in First Boot Complete being skipped.
+Oct 10 13:39:33 host01 systemd[1]: Finished Coldplug All udev Devices.
+Oct 10 13:39:33 host01 systemd[1]: Finished Create System Users.
+Oct 10 13:39:33 host01 systemd[1]: Finished Flush Journal to Persistent Storage.
+Oct 10 13:39:33 host01 systemd[1]: Starting Create Static Device Nodes in /dev...
+Oct 10 13:39:33 host01 systemd[1]: Finished Create Static Device Nodes in /dev.
+Oct 10 13:39:33 host01 systemd[1]: Starting Rule-based Manager for Device Events and Files...
+Oct 10 13:39:33 host01 multipathd[419]: --------start up--------
+Oct 10 13:39:33 host01 multipathd[419]: read /etc/multipath.conf
+Oct 10 13:39:33 host01 multipathd[419]: path checkers start up
+Oct 10 13:39:33 host01 systemd[1]: Started Device-Mapper Multipath Device Controller.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Preparation for Local File Systems.
+Oct 10 13:39:33 host01 systemd[1]: Mounting Mount unit for core22, revision 2955...
+Oct 10 13:39:33 host01 systemd[1]: Mounting Mount unit for lxd, revision 40911...
+Oct 10 13:39:33 host01 systemd[1]: Mounting Mount unit for snapd, revision 28254...
+Oct 10 13:39:33 host01 kernel: loop0: detected capacity change from 0 to 91568
+Oct 10 13:39:33 host01 kernel: loop1: detected capacity change from 0 to 151512
+Oct 10 13:39:33 host01 kernel: loop2: detected capacity change from 0 to 235904
+Oct 10 13:39:33 host01 systemd[1]: Mounted Mount unit for lxd, revision 40911.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Mount unit for snapd, revision 28254.
+Oct 10 13:39:33 host01 systemd[1]: Mounted Mount unit for core22, revision 2955.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Mounted snaps.
+Oct 10 13:39:33 host01 systemd[1]: Started Rule-based Manager for Device Events and Files.
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in Show Plymouth Boot Screen being skipped.
+Oct 10 13:39:33 host01 systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Oct 10 13:39:33 host01 systemd[1]: Condition check resulted in Forward Password Requests to Plymouth Directory Watch being skipped.
+Oct 10 13:39:33 host01 systemd[1]: Reached target Local Encrypted Volumes.
+Oct 10 13:39:34 host01 systemd-udevd[433]: Using default interface naming scheme 'v249'.
+Oct 10 13:39:34 host01 systemd-udevd[433]: enp0s4: Could not set WakeOnLan to off, ignoring: Operation not supported
+Oct 10 13:39:34 host01 kernel: parport_pc 00:02: reported by Plug and Play ACPI
+Oct 10 13:39:34 host01 kernel: parport0: PC-style at 0x378, irq 7 [PCSPP,TRISTATE]
+Oct 10 13:39:34 host01 systemd[1]: Found device /dev/disk/by-label/UEFI.
+Oct 10 13:39:34 host01 systemd[1]: Starting File System Check on /dev/disk/by-label/UEFI...
+Oct 10 13:39:34 host01 systemd[1]: Found device /dev/ttyS0.
+Oct 10 13:39:34 host01 systemd-fsck[465]: fsck.fat 4.2 (2021-01-31)
+Oct 10 13:39:34 host01 systemd-fsck[465]: /dev/vda15: 12 files, 12387/213663 clusters
+Oct 10 13:39:34 host01 systemd[1]: Finished File System Check on /dev/disk/by-label/UEFI.
+Oct 10 13:39:34 host01 systemd[1]: Mounting /boot/efi...
+Oct 10 13:39:34 host01 systemd[1]: Mounted /boot/efi.
+Oct 10 13:39:34 host01 systemd[1]: Reached target Local File Systems.
+Oct 10 13:39:34 host01 systemd[1]: Starting Load AppArmor profiles...
+Oct 10 13:39:34 host01 systemd[1]: Starting Set console font and keymap...
+Oct 10 13:39:34 host01 systemd[1]: Starting Create final runtime dir for shutdown pivot root...
+Oct 10 13:39:34 host01 systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Oct 10 13:39:34 host01 apparmor.systemd[469]: Restarting AppArmor
+Oct 10 13:39:34 host01 apparmor.systemd[469]: Reloading AppArmor profiles
+Oct 10 13:39:34 host01 systemd[1]: Starting Set Up Additional Binary Formats...
+Oct 10 13:39:34 host01 systemd[1]: Condition check resulted in Store a System Token in an EFI Variable being skipped.
+Oct 10 13:39:34 host01 systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+Oct 10 13:39:34 host01 systemd[1]: Starting Create Volatile Files and Directories...
+Oct 10 13:39:34 host01 systemd[1]: Starting Uncomplicated firewall...
+Oct 10 13:39:34 host01 systemd[1]: Finished Create final runtime dir for shutdown pivot root.
+Oct 10 13:39:34 host01 systemd[1]: Finished Set console font and keymap.
+Oct 10 13:39:34 host01 systemd[1]: Finished Create Volatile Files and Directories.
+Oct 10 13:39:34 host01 audit[489]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=489 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[489]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=489 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[488]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=488 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.180:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=489 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.180:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=489 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.184:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=488 comm="apparmor_parser"
+Oct 10 13:39:34 host01 systemd[1]: Finished Tell Plymouth To Write Out Runtime Data.
+Oct 10 13:39:34 host01 systemd[1]: Finished Uncomplicated firewall.
+Oct 10 13:39:34 host01 systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 483 (systemd-binfmt)
+Oct 10 13:39:34 host01 systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Oct 10 13:39:34 host01 systemd[1]: Mounting Arbitrary Executable File Formats File System...
+Oct 10 13:39:34 host01 systemd[1]: Starting Network Time Synchronization...
+Oct 10 13:39:34 host01 audit[492]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_apt_news" pid=492 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[491]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[491]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[491]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[491]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.204:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_apt_news" pid=492 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.204:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.204:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.204:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.204:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=491 comm="apparmor_parser"
+Oct 10 13:39:34 host01 systemd[1]: Starting Record System Boot/Shutdown in UTMP...
+Oct 10 13:39:34 host01 systemd[1]: Finished Record System Boot/Shutdown in UTMP.
+Oct 10 13:39:34 host01 audit[504]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=504 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[504]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=504 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[504]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=504 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//apt_methods" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//apt_methods_gpgv" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//cloud_id" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//dpkg" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//ps" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache//ubuntu_distro_info" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache_systemctl" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[503]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_esm_cache_systemd_detect_virt" pid=503 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.260:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=504 comm="apparmor_parser"
+Oct 10 13:39:34 host01 kernel: audit: type=1400 audit(1791639574.260:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=504 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[511]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="tcpdump" pid=511 comm="apparmor_parser"
+Oct 10 13:39:34 host01 apparmor.systemd[514]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Oct 10 13:39:34 host01 systemd[1]: Mounted Arbitrary Executable File Formats File System.
+Oct 10 13:39:34 host01 audit[512]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/snapd/snap-confine" pid=512 comm="apparmor_parser"
+Oct 10 13:39:34 host01 systemd[1]: Finished Set Up Additional Binary Formats.
+Oct 10 13:39:34 host01 kernel: ppdev: user-space parallel port driver
+Oct 10 13:39:34 host01 systemd[1]: Finished Load AppArmor profiles.
+Oct 10 13:39:34 host01 systemd[1]: Starting Load AppArmor profiles managed internally by snapd...
+Oct 10 13:39:34 host01 systemd[1]: Condition check resulted in Authentication service for virtual machines hosted on VMware being skipped.
+Oct 10 13:39:34 host01 systemd[1]: Condition check resulted in Service for virtual machines hosted on VMware being skipped.
+Oct 10 13:39:34 host01 systemd[1]: Starting Cloud-init: Local Stage (pre-network)...
+Oct 10 13:39:34 host01 systemd[1]: Started Network Time Synchronization.
+Oct 10 13:39:34 host01 snapd-apparmor[517]: main.go:146: Loading profiles [/var/lib/snapd/apparmor/profiles/snap-confine.snapd.28254 /var/lib/snapd/apparmor/profiles/snap-update-ns.lxd /var/lib/snapd/apparmor/profiles/snap.lxd.activate /var/lib/snapd/apparmor/profiles/snap.lxd.benchmark /var/lib/snapd/apparmor/profiles/snap.lxd.buginfo /var/lib/snapd/apparmor/profiles/snap.lxd.check-kernel /var/lib/snapd/apparmor/profiles/snap.lxd.daemon /var/lib/snapd/apparmor/profiles/snap.lxd.hook.configure /var/lib/snapd/apparmor/profiles/snap.lxd.hook.install /var/lib/snapd/apparmor/profiles/snap.lxd.hook.remove /var/lib/snapd/apparmor/profiles/snap.lxd.lxc /var/lib/snapd/apparmor/profiles/snap.lxd.lxc-to-lxd /var/lib/snapd/apparmor/profiles/snap.lxd.lxd /var/lib/snapd/apparmor/profiles/snap.lxd.migrate /var/lib/snapd/apparmor/profiles/snap.lxd.user-daemon]
+Oct 10 13:39:34 host01 systemd[1]: Reached target System Time Set.
+Oct 10 13:39:34 host01 audit[538]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap-update-ns.lxd" pid=538 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[537]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/28254/usr/lib/snapd/snap-confine" pid=537 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[539]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.activate" pid=539 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[541]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.buginfo" pid=541 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[540]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.benchmark" pid=540 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[542]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.check-kernel" pid=542 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[544]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.configure" pid=544 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[543]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.daemon" pid=543 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[545]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.install" pid=545 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[546]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.hook.remove" pid=546 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[547]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxc" pid=547 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[548]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxc-to-lxd" pid=548 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[549]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.lxd" pid=549 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[550]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.migrate" pid=550 comm="apparmor_parser"
+Oct 10 13:39:34 host01 audit[551]: AVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="snap.lxd.user-daemon" pid=551 comm="apparmor_parser"
+Oct 10 13:39:34 host01 systemd[1]: Finished Load AppArmor profiles managed internally by snapd.
+Oct 10 13:39:34 host01 cloud-init[555]: Cloud-init v. 26.1-0ubuntu1~22.04.1 running 'init-local' at Sat, 10 Oct 2026 13:39:34 +0000. Up 6.39 seconds.
+Oct 10 13:39:35 host01 kernel: ISO 9660 Extensions: Microsoft Joliet Level 3
+Oct 10 13:39:35 host01 kernel: ISO 9660 Extensions: RRIP_1991A
+Oct 10 13:39:35 host01 systemd[1]: run-cloud\x2dinit-tmp-tmp3n_k_gjs.mount: Deactivated successfully.
+Oct 10 13:39:35 host01 systemd[1]: Finished Cloud-init: Local Stage (pre-network).
+Oct 10 13:39:35 host01 systemd[1]: Reached target Preparation for Network.
+Oct 10 13:39:35 host01 systemd[1]: Starting Network Configuration...
+Oct 10 13:39:35 host01 systemd-networkd[566]: lo: Link UP
+Oct 10 13:39:35 host01 systemd-networkd[566]: lo: Gained carrier
+Oct 10 13:39:35 host01 systemd-networkd[566]: Enumeration completed
+Oct 10 13:39:35 host01 systemd[1]: Started Network Configuration.
+Oct 10 13:39:35 host01 systemd[1]: Starting Wait for Network to be Configured...
+Oct 10 13:39:35 host01 systemd[1]: Starting Network Name Resolution...
+Oct 10 13:39:35 host01 systemd-networkd[566]: enp0s4: Link UP
+Oct 10 13:39:35 host01 systemd-networkd[566]: enp0s4: Gained carrier
+Oct 10 13:39:35 host01 systemd-networkd[566]: enp0s4: DHCPv4 address 192.0.2.2/24 via 192.0.2.3
+Oct 10 13:39:35 host01 systemd-timesyncd[501]: Network configuration changed, trying to establish connection.
+Oct 10 13:39:35 host01 systemd-resolved[568]: Positive Trust Anchors:
+Oct 10 13:39:35 host01 systemd-resolved[568]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+Oct 10 13:39:35 host01 systemd-resolved[568]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+Oct 10 13:39:35 host01 systemd-resolved[568]: Using system hostname 'host01'.
+Oct 10 13:39:35 host01 systemd[1]: Started Network Name Resolution.
+Oct 10 13:39:35 host01 systemd[1]: Reached target Network.
+Oct 10 13:39:35 host01 systemd[1]: Reached target Host and Network Name Lookups.
+Oct 10 13:39:37 host01 systemd-networkd[566]: enp0s4: Gained IPv6LL
+Oct 10 13:39:37 host01 systemd-timesyncd[501]: Network configuration changed, trying to establish connection.
+Oct 10 13:39:37 host01 systemd[1]: Finished Wait for Network to be Configured.
+Oct 10 13:39:37 host01 systemd[1]: Starting Cloud-init: Network Stage...
+Oct 10 13:39:37 host01 cloud-init[573]: Cloud-init v. 26.1-0ubuntu1~22.04.1 running 'init' at Sat, 10 Oct 2026 13:39:37 +0000. Up 9.15 seconds.
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: ++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +--------+------+-------------------------+---------------+--------+-------------------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: | Device |  Up  |         Address         |      Mask     | Scope  |     Hw-Address    |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +--------+------+-------------------------+---------------+--------+-------------------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: | enp0s4 | True |        192.0.2.2        | 255.255.255.0 | global | 00:00:5e:00:53:04 |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: | enp0s4 | True | 2001:db8::5/64 |       .       |  link  | 00:00:5e:00:53:04 |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   lo   | True |        127.0.0.1        |   255.0.0.0   |  host  |         .         |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   lo   | True |         ::1/128         |       .       |  host  |         .         |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +--------+------+-------------------------+---------------+--------+-------------------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: ++++++++++++++++++++++++++++Route IPv4 info+++++++++++++++++++++++++++++
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: | Route | Destination | Gateway  |     Genmask     | Interface | Flags |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   0   |   0.0.0.0   | 192.0.2.3 |     0.0.0.0     |   enp0s4  |   UG  |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   1   |   192.0.2.6  | 0.0.0.0  |  255.255.255.0  |   enp0s4  |   U   |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   2   |   192.0.2.3  | 0.0.0.0  | 255.255.255.255 |   enp0s4  |   UH  |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   3   |   192.0.2.7  | 0.0.0.0  | 255.255.255.255 |   enp0s4  |   UH  |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+---------+-----------+-------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: | Route | Destination | Gateway | Interface | Flags |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+---------+-----------+-------+
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   1   |  2001:db8::8/64  |    2001:db8::9   |   enp0s4  |   U   |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   3   |    local    |    2001:db8::9   |   enp0s4  |   U   |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: |   4   |  multicast  |    2001:db8::9   |   enp0s4  |   U   |
+Oct 10 13:39:37 host01 cloud-init[573]: ci-info: +-------+-------------+---------+-----------+-------+
+Oct 10 13:39:37 host01 systemd[1]: Finished Cloud-init: Network Stage.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Cloud-config availability.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Network is Online.
+Oct 10 13:39:37 host01 systemd[1]: Reached target System Initialization.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily apt download activities.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily apt upgrade and clean activities.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily dpkg database backup timer.
+Oct 10 13:39:37 host01 systemd[1]: Started Periodic ext4 Online Metadata Check for All Filesystems.
+Oct 10 13:39:37 host01 systemd[1]: Started Discard unused blocks once a week.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily rotation of log files.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily man-db regeneration.
+Oct 10 13:39:37 host01 systemd[1]: Started Message of the Day.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Ubuntu Pro Timer for running repeated jobs being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Started Download data for packages that failed at package install time.
+Oct 10 13:39:37 host01 systemd[1]: Started Check to see whether there is a new version of Ubuntu available.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Path Units.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Timer Units.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Unix socket for apport crash forwarding being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Listening on cloud-init hotplug hook socket.
+Oct 10 13:39:37 host01 systemd[1]: Listening on D-Bus System Message Bus Socket.
+Oct 10 13:39:37 host01 systemd[1]: Listening on Open-iSCSI iscsid Socket.
+Oct 10 13:39:37 host01 systemd[1]: Listening on Socket unix for snap application lxd.daemon.
+Oct 10 13:39:37 host01 systemd[1]: Listening on Socket unix for snap application lxd.user-daemon.
+Oct 10 13:39:37 host01 systemd[1]: Starting Socket activation for snappy daemon...
+Oct 10 13:39:37 host01 systemd[1]: Listening on UUID daemon activation socket.
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in Login to default iSCSI targets being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Preparation for Remote File Systems.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Remote File Systems.
+Oct 10 13:39:37 host01 systemd[1]: Finished Availability of block devices.
+Oct 10 13:39:37 host01 systemd[1]: Listening on Socket activation for snappy daemon.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Socket Units.
+Oct 10 13:39:37 host01 systemd[1]: Reached target Basic System.
+Oct 10 13:39:37 host01 systemd[1]: Starting LSB: automatic crash report generation...
+Oct 10 13:39:37 host01 systemd[1]: Started Regular background program processing daemon.
+Oct 10 13:39:37 host01 systemd[1]: Started D-Bus System Message Bus.
+Oct 10 13:39:37 host01 cron[603]: (CRON) INFO (pidfile fd = 3)
+Oct 10 13:39:37 host01 systemd[1]: Started Save initial kernel messages after boot.
+Oct 10 13:39:37 host01 cron[603]: (CRON) INFO (Running @reboot jobs)
+Oct 10 13:39:37 host01 systemd[1]: Starting Remove Stale Online ext4 Metadata Check Snapshots...
+Oct 10 13:39:37 host01 systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+Oct 10 13:39:37 host01 systemd[1]: Starting Record successful boot for GRUB...
+Oct 10 13:39:37 host01 systemd[1]: Started irqbalance daemon.
+Oct 10 13:39:38 host01 systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+Oct 10 13:39:38 host01 dbus-daemon[604]: [system] AppArmor D-Bus mediation is enabled
+Oct 10 13:39:38 host01 systemd-timesyncd[501]: Network configuration changed, trying to establish connection.
+Oct 10 13:39:38 host01 systemd[1]: Started petit reboot fingerprint capture.
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Pollinate to seed the pseudo random number generator being skipped.
+Oct 10 13:39:38 host01 systemd[1]: Starting System Logging Service...
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Secure Boot updates for DB and DBX being skipped.
+Oct 10 13:39:38 host01 systemd[1]: Starting Service for snap application lxd.activate...
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+Oct 10 13:39:38 host01 systemd[1]: Reached target Preparation for Logins.
+Oct 10 13:39:38 host01 systemd[1]: Starting Wait until snapd is fully seeded...
+Oct 10 13:39:38 host01 systemd[1]: Starting Snap Daemon...
+Oct 10 13:39:38 host01 systemd[1]: Starting OpenBSD Secure Shell server...
+Oct 10 13:39:38 host01 systemd[1]: Starting User Login Management...
+Oct 10 13:39:38 host01 systemd[1]: Starting Permit User Sessions...
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Ubuntu Pro reboot cmds being skipped.
+Oct 10 13:39:38 host01 systemd[1]: Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+Oct 10 13:39:38 host01 systemd[1]: e2scrub_reap.service: Deactivated successfully.
+Oct 10 13:39:38 host01 systemd[1]: Finished Remove Stale Online ext4 Metadata Check Snapshots.
+Oct 10 13:39:38 host01 rsyslogd[613]: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2112.0]
+Oct 10 13:39:38 host01 rsyslogd[613]: rsyslogd's groupid changed to 111
+Oct 10 13:39:38 host01 rsyslogd[613]: rsyslogd's userid changed to 104
+Oct 10 13:39:38 host01 rsyslogd[613]: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="613" x-info="https://www.rsyslog.com"] start
+Oct 10 13:39:38 host01 systemd[1]: Started System Logging Service.
+Oct 10 13:39:38 host01 systemd[1]: Finished Permit User Sessions.
+Oct 10 13:39:38 host01 systemd[1]: Starting Hold until boot process finishes up...
+Oct 10 13:39:38 host01 systemd[1]: Starting Terminate Plymouth Boot Screen...
+Oct 10 13:39:38 host01 systemd[1]: Finished Hold until boot process finishes up.
+Oct 10 13:39:38 host01 systemd[1]: Started Serial Getty on ttyS0.
+Oct 10 13:39:38 host01 systemd[1]: Starting Set console scheme...
+Oct 10 13:39:38 host01 systemd[1]: Finished Terminate Plymouth Boot Screen.
+Oct 10 13:39:38 host01 apport[602]:  * Starting automatic crash report generation: apport
+Oct 10 13:39:38 host01 systemd[1]: Finished Set console scheme.
+Oct 10 13:39:38 host01 apport[602]:    ...done.
+Oct 10 13:39:38 host01 systemd[1]: Started LSB: automatic crash report generation.
+Oct 10 13:39:38 host01 systemd[1]: Created slice Slice /system/getty.
+Oct 10 13:39:38 host01 systemd[1]: Started Getty on tty1.
+Oct 10 13:39:38 host01 systemd[1]: Reached target Login Prompts.
+Oct 10 13:39:38 host01 systemd[1]: grub-common.service: Deactivated successfully.
+Oct 10 13:39:38 host01 systemd[1]: Finished Record successful boot for GRUB.
+Oct 10 13:39:38 host01 systemd[1]: Starting GRUB failed boot detection...
+Oct 10 13:39:38 host01 systemd[1]: grub-initrd-fallback.service: Deactivated successfully.
+Oct 10 13:39:38 host01 systemd[1]: Finished GRUB failed boot detection.
+Oct 10 13:39:38 host01 systemd-logind[623]: Watching system buttons on /dev/input/event0 (Power Button)
+Oct 10 13:39:38 host01 systemd-logind[623]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Oct 10 13:39:38 host01 systemd-logind[623]: New seat seat0.
+Oct 10 13:39:38 host01 systemd[1]: Started User Login Management.
+Oct 10 13:39:38 host01 systemd[1]: Started Unattended Upgrades Shutdown.
+Oct 10 13:39:38 host01 sshd[663]: Server listening on 0.0.0.0 port 22.
+Oct 10 13:39:38 host01 sshd[663]: Server listening on 2001:db8::9 port 22.
+Oct 10 13:39:38 host01 systemd[1]: Started OpenBSD Secure Shell server.
+Oct 10 13:39:38 host01 networkd-dispatcher[611]: No valid path found for iwconfig
+Oct 10 13:39:38 host01 networkd-dispatcher[611]: No valid path found for iw
+Oct 10 13:39:38 host01 systemd[1]: Started Dispatcher daemon for systemd-networkd.
+Oct 10 13:39:40 host01 snapd[617]: seclog.go:107: security logger enabled
+Oct 10 13:39:40 host01 snapd[617]: overlord.go:316: Acquiring state lock file
+Oct 10 13:39:40 host01 snapd[617]: overlord.go:321: Acquired state lock file
+Oct 10 13:39:40 host01 snapd[617]: daemon.go:277: started snapd/2.77.1 (series 16; classic) ubuntu/22.04 (amd64) linux/5.15.0-198-generic.
+Oct 10 13:39:40 host01 kernel: loop3: detected capacity change from 0 to 8
+Oct 10 13:39:40 host01 systemd[1]: tmp-syscheck\x2dmountpoint\x2d1024226049.mount: Deactivated successfully.
+Oct 10 13:39:40 host01 snapd[617]: daemon.go:371: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)
+Oct 10 13:39:40 host01 snapd[617]: backends.go:70: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+Oct 10 13:39:40 host01 snapd[617]: backend.go:141: delegating reload of snap-confine profiles to system snap security profiles setup
+Oct 10 13:39:40 host01 snapd[617]: standby.go:95: will consider standby after: 5s
+Oct 10 13:39:40 host01 dbus-daemon[604]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.8' (uid=0 pid=617 comm="/snap/snapd/current/usr/lib/snapd/snapd " label="unconfined")
+Oct 10 13:39:40 host01 systemd[1]: Started Snap Daemon.
+Oct 10 13:39:40 host01 systemd[1]: Starting Time & Date Service...
+Oct 10 13:39:40 host01 dbus-daemon[604]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Oct 10 13:39:40 host01 systemd[1]: Started Time & Date Service.
+Oct 10 13:39:40 host01 systemd[1]: Finished Wait until snapd is fully seeded.
+Oct 10 13:39:40 host01 systemd[1]: Starting Cloud-init: Config Stage...
+Oct 10 13:39:40 host01 systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+Oct 10 13:39:40 host01 cloud-init[775]: Cloud-init v. 26.1-0ubuntu1~22.04.1 running 'modules:config' at Sat, 10 Oct 2026 13:39:40 +0000. Up 12.17 seconds.
+Oct 10 13:39:40 host01 systemd[1]: Finished Cloud-init: Config Stage.
+Oct 10 13:39:40 host01 lxd.activate[614]: => Starting LXD activation
+Oct 10 13:39:40 host01 lxd.activate[614]: ==> Loading snap configuration
+Oct 10 13:39:40 host01 lxd.activate[614]: ==> Checking for socket activation support
+Oct 10 13:39:41 host01 lxd.activate[614]: ==> Setting LXD socket ownership
+Oct 10 13:39:41 host01 lxd.activate[614]: ==> Setting LXD user socket ownership
+Oct 10 13:39:41 host01 lxd.activate[614]: ==> LXD never started on this system, no need to start it now
+Oct 10 13:39:41 host01 systemd[1]: snap.lxd.activate.service: Deactivated successfully.
+Oct 10 13:39:41 host01 systemd[1]: Finished Service for snap application lxd.activate.
+Oct 10 13:39:41 host01 systemd[1]: snap.lxd.activate.service: Consumed 1.374s CPU time.
+Oct 10 13:39:41 host01 systemd[1]: Reached target Multi-User System.
+Oct 10 13:39:41 host01 systemd[1]: Reached target Graphical Interface.
+Oct 10 13:39:41 host01 systemd[1]: Starting Cloud-init: Final Stage...
+Oct 10 13:39:41 host01 systemd[1]: Starting Record Runlevel Change in UTMP...
+Oct 10 13:39:41 host01 systemd[1]: systemd-update-utmp-runlevel.service: Deactivated successfully.
+Oct 10 13:39:41 host01 systemd[1]: Finished Record Runlevel Change in UTMP.
+Oct 10 13:39:41 host01 systemd[1]: tmp-snap\x2dprivate\x2dtmp-snap.rootfs_IchEFT.mount: Deactivated successfully.
+Oct 10 13:39:41 host01 cloud-init[810]: Cloud-init v. 26.1-0ubuntu1~22.04.1 running 'modules:final' at Sat, 10 Oct 2026 13:39:41 +0000. Up 12.73 seconds.
+Oct 10 13:39:41 host01 cloud-init[810]: Cloud-init v. 26.1-0ubuntu1~22.04.1 finished at Sat, 10 Oct 2026 13:39:41 +0000. Datasource DataSourceNoCloud [seed=/dev/vdc].  Up 12.80 seconds
+Oct 10 13:39:41 host01 systemd[1]: Finished Cloud-init: Final Stage.
+Oct 10 13:39:41 host01 systemd[1]: Reached target Cloud-init target.
+Oct 10 13:39:41 host01 systemd[1]: Startup finished in 4.673s (kernel) + 8.189s (userspace) = 12.862s.
