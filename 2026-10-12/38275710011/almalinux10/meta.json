@@ -1,0 +1,15 @@
+{
+  "id": "almalinux10",
+  "family": "almalinux",
+  "version": "10",
+  "role": "corpus",
+  "corpus": "el10",
+  "log": "journal",
+  "source": "cloud",
+  "image": "https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/AlmaLinux-10-GenericCloud-latest.x86_64.qcow2",
+  "checksum": "https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/CHECKSUM",
+  "digest": "sha256:cbee4726fc0f5a60694bb4f289003cc221e715dfbacebcce76b54daf386d8eca",
+  "kernel": "6.12.0-211.64.1.el10_2.x86_64",
+  "os": "AlmaLinux 10.2 (Lavender Lion)",
+  "captured": "2026-10-12"
+}
