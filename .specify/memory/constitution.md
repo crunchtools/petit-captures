@@ -3,7 +3,7 @@
 > **Version:** 1.0.0
 > **Ratified:** 2026-10-02
 > **Status:** Active
-> **Inherits:** [crunchtools/constitution](https://github.com/crunchtools/constitution) v1.26.0
+> **Inherits:** [crunchtools/constitution](https://github.com/crunchtools/constitution) v1.27.0
 > **Profile:** Data Archive
 
 This file holds what is specific to petit-captures. The fleet rules and the
