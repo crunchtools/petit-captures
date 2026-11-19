@@ -7,6 +7,7 @@ follows [Keep a Changelog](https://keepachangelog.com/).
 ## [Unreleased]
 
 ### Changed
+- Gatehouse triage receives the review job's result (`review_result`), so a PR whose review died before posting anything is held instead of passing.
 
 - Added the per-repo constitution as a v1.18.0 manifest (Data Archive):
   producer, key layout and scrubbing.
